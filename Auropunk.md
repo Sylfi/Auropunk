@@ -362,8 +362,11 @@ Inside the grain, that order visually unfolded before me. Repetition ; layer upo
 Yet no crystal is ever perfectly faithful to its own pattern. Somewhere within that disciplined repetition, a subtle misalignment interrupted the order — a half-plane inserted where none should exist. An edge dislocation: a structural scar running through the lattice, a line of accumulated strain where the geometry had shifted by the smallest fraction of itself, like a fault frozen in mineral time.
 
 |||||||
+
 |||||||
-||||||
+
+||||||//
+
 |||||||
 
 Got it. 
