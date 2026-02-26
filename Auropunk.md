@@ -382,13 +382,17 @@ To catch the warmth and blaze of a small sun*
 "Happy dance. I'm warmed up. Keep them coming."
 
 The way light scatters inside a crystal.
+
 The shape of a droplet just before it falls.
+
 The force acting on a dandelion seed the moment it breaks free.
 
 I should have grown more tired with each petal. Instead, it was elating. A dangerous oversight in AuroSys’ security architecture — one they had never anticipated.
 
 The curvature of a mushroom cap as it unfolds.
+
 The electric charge carried by a grain of pollen.
+
 The instant of hesitation before a paramecium turns away.
 
 I had never understood people who clung to numerology or other forms of magical thinking. Reality was already miraculous if one cared enough to understand it. Since the Closure, when people began experiencing matter directly, pseudoscience had been fading in Auroville.
@@ -398,7 +402,9 @@ I had never understood people who clung to numerology or other forms of magical 
 "Sorry. Won't do it again. Pinky swear."
 
 The heat released by electricity flowing through an aging circuit.
+
 The rotational phase of chloroplasts in a single vine leaf cell.
+
 The interference pattern where two ripples meet.
 
 One last remaining.
