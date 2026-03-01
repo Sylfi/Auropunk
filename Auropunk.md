@@ -410,7 +410,62 @@ The rotational phase of chloroplasts in a single vine leaf cell.
 
 The interference pattern where two ripples meet.
 
-One last remaining.
+One last petal remained. Receptivity. The event-arborescence unfolded before me.
 
+Erth/Amzn/#1&@Hu/3x::Δ%/Lvg??/Ek0rt//An§nm?l/Ch$*rd//Act—Σ// @03.146S60.021W @14:07:12.09
+
+Silence.
+
+"What is that?" I asked M01ra. 
+
+"...Looks corrupted."
+
+"What does it mean?"
+
+"Looks like... Yes. The coordinates don't point to Auroville."
+
+"What?!"
+
+"Savitri-∆, please confirm:  coordinates targeting the Outside ?"
+
+"Confirmed. Reinforced security protocol for Persona Zero"
+
+"That wasn't in the mission brief !" I said. 
+
+The coordinates were far. I tried to project my mental outside Auroville but the Pillars of Containment wouldn't let me.
+
+"I don't have the reach, M01ra."
+
+"That must have been implemented right after my last check-in... were they suspecting something? "
+
+*116 seconds remaining*
+
+"M01ra, I don't have the reach !"
+
+"I KNOW ! Let me think... frack... If you can't project your mental beyond the city, then we'll upload it elsewhere... I'll handle your body... The EU has been harmonising its navigation protocols with ours. It’s still beta, but it might be enough. Servers at AVI Stuttgart are live. Do we try?"
+
+"No, let's go home and play tennis !!"
+
+"You don't have to be a peacock about it. Stuttgart sockets are open and responsive. You should sit down. Might tickle a little bit, or you might have a vague sensation of falling into infinite oblivion for a few seconds. I'll have to disconnect you locally for a few seconds. Stay in trance."
+
+I inhaled slowly. "Do it".
+
+Instant darkness.
+
+No sound. No orientation. No body. Only suspension. I let myself float in this sensory vacuum that stretched like an eternity compressed into seconds.
+
+"Keishav, I hope you can read me — and that you've had all the time to think about your French girls."
+
+I could feel the stress in her tone. When M01ra called me by my name and cracked brittle jokes like that, I knew something was off.
+
+"I'm uploading Galileo navsat protocols now. Branching their API to my console.  Handshake successful. Request accepted. Twenty-seven out of thirty satellites available. Signal strong. Bandwidth acceptable. Sorry, thinking out loud. All green. Patching you in five... now"
+
+The transition felt like pressure from the inside — a widening of perceptual bandwidth that felt like an expansion of the mind, like a big shot of compressed air inside my skull. 
+
+"Keish', do you copy ?"
+
+Then I saw the world. Not in colours — not as landscape — but as structured light. White lattices overlaid with translucent blue vectors. Data made visible. Coordinates breathing.
+
+Instinctively, my attention snapped back to Auroville. We were tiny. So tiny. Lost in this ocean of corruption. Were we truly the city meant to save the world?
 
 
