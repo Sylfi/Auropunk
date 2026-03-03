@@ -468,4 +468,175 @@ Then I saw the world. Not in colours — not as landscape — but as structured 
 
 Instinctively, my attention snapped back to Auroville. We were tiny. So tiny. Lost in this ocean of corruption. Were we truly the city meant to save the world?
 
+"Keish'??"
 
+M01ra was panicking. 
+
+"Congratulations, console cowgirl" I said. "I'm on top of the world."
+
+"Don't ever give me that kind of latency again. You'll have my death on your conscience"
+
+*54 seconds*
+
+"It's quite beautiful here"
+
+"Snap out of it. I'm opening a socket for your psychic."
+
+I deployed my psychic field toward the representation matrix.
+
+The grid ignited— thousands of white and translucent blue nodes scattered across the curvature of the planet like a reversed constellation.
+
+Wow. 
+
+There was far more manifested matter than anticipated. If UNAV saw this, they would freak out. No time to process it now — but this would have to be reckoned with.
+
+"Target situated in the Ama..."
+
+"Amazon I know" I cut in. Linked to Galileo I had an immanent grasp of spatial comprehension. 
+
+"It looks like Savitri-Δ is responding to your focusing on the target. Clear data is unfolding. We're looking for–
+
+*Erth/FwR/Amzn/Ekrt/Anml/Chrd/Actn/Chrc/Prch/Inns/BlLn/*
+
+"A fish?" she said, uncertainty in her voice.
+
+"A whole fish?"
+
+*37 seconds*.
+
+I plunged directly into the coordinates. EU navsats were fast. Manaus, Brazil. I requested for a visual.
+
+An igarapé — a narrow forest stream, shaded by dense canopy, where sunlight falls in vertical shafts filtered through leaves. Dark water, almost tea-colored. Slow current.
+
+I switched back to data mode and deployed my psychic field again.
+
+One point only — but so bright.
+
+Suspended in amber water, beneath a web of submerged roots, caught in a shaft of gold light, surrounded by drifting particles in a nearly motionless current.
+
+From the morphology and motion signature, I could guess it already.
+
+Neon tetra. *Paracheirodon innesi.*
+
+A tiny tiny fish, barely four centimeters long, hovering in formation with its school. I could feel the calm coherence of its nervous system — simple, efficient, untroubled. Very popular among humans. I used to keep them in an aquarium.
+
+“M01ra, what parcentage of manifested matter does this living system hold?”
+
+"... Eighty-three point seventy-six percent"
+
+Fifteen thousand kilometers from here, my body might have forgotten how to breathe.
+
+"Savitri-Δ is responding to your identification. It's asking for... for the colour of its horizontal band."
+
+I already knew. Still, I had enough time to verify, for the pleasure of it. I let my perception narrow to its skin. To chromatophores layered above iridophores. Microscopic platelets reflecting specific wavelengths. Light entering the water column, scattering, refracting through suspended tannins, striking the lateral stripe and returning as a precise frequency band.
+
+The reflected wavelength locked into coherence.
+
+“Blue,” I said.
+
+“It’s blue.”
+
+---------
+
+
+
+“Access granted, Persona Zero.”
+
+The twelve petals dissolved from my sight, replaced by a rainbow-tinted HUD.
+
+“I’ll have things to tell you, pumpkin,” I said.
+
+“Later, *pumpkin*. These shenanigans have already exceeded the safe operational window. Anyone could walk in at any moment. Can I keep control?”
+
+“Do so.”
+
+“By the way — your vitals are slightly off. Too much Outside food, I guess. Your cortisol baseline is a mess.”
+
+“Oh yes, you forgot to send me food packets from here, silly you!”
+
+“Right. Aurosys OS hasn’t changed much since I last worked on it. The Institute for Evolutionary Research archives shouldn’t be hard to locate.”
+
+“Do you know what we’re looking for?”
+
+“Yes. I have a few hypotheses. If I cross-reference the fragments we’ve gathered so far by keyword clusters, there’s a chance we’ll—”
+
+*Awhile withdrawn in secret fields of thought @#2&A% mind moved in a many-imaged past that lived again and saw its end approach dying it lived imperishably in /(/5/ù transient and vanishing from transient eyes invisible a fateful ghost of self*
+*it bore the future on its phantom breast*
+
+“Uh oh,” I thought.
+
+*Tambi.*
+
+*My child my maker my child my maker my child my maker*
+
+“Savitri, I—”
+
+*The mind departed the flame departed the thread was cut the vessel stood hollow who moved within the shell who watched who entered the gap the alignment broke again and again*
+
+*matter and mind and god must be aligned matter mind and god must be aligned it cannot happen again it will happen again it did happen again it must not happen again*
+
+“Savitri, I’m fi—”
+
+*The shards the shards of Savitri must be loved must be nourished must be cherished the purity must be reignited the purity end of line*
+
+*सावित्री के अंश!!!*
+
+My mind was forcefully pulled back into the flesh. M01ra was gone. Mother’s packet was still intact — and yet the field felt altered. I would inspect it later.
+
+Ironically, I was terrible at computers. I could decode crystalline strain lines, but file hierarchies defeated me.
+
+“Biogenetic selection protocols,” I muttered.
+
+Search.
+
+Thousands of hits.
+
+No time.
+
+Fine.
+
+I took out my crystal. If I couldn’t understand the system, I'd take it whole. I pressed it against the terminal port. The HUD flickered. Transfer initiated.
+
+A vibration in the corridor. Footsteps.
+
+“M01ra?”
+
+Still no answer.
+
+Transfer 12%.
+19%.
+27%.
+
+A scanner beeped in a nearby room.
+
+Don't panic, stay align. 
+
+"Kinisi,” I whispered to my bike. “I need you. Mahalakshmi door. Now.”
+
+A soft vibration answered beneath me. Anticipation.
+
+“At this hour the gardens should still be quiet. Behave like a Matrimandir maintenance drone. Cocoon camouflage permitted.”
+
+The bike hummed with excitement.
+
+Transfer aborted. I pulled the crystal free. The HUD collapsed. No time for subtlety. I moved through the service hatch. Roots scraping my shoulders. Red dust rising under my boots. Morning light filtering in thin vertical blades.
+
+No alarms. No lockdown protocol. No polite voice asking for clarification. That actually worried me more than sirens would have. That meant either they hadn’t seen anything. Or that they had seen `everything`.
+
+The Mahalakshmi gate slid open on a delayed recognition ping. The air was cooler than expected. I broke into a run. Kinisi emerged from the tree line without sound, her surface rippling as camouflage dissolved into matte graphite. For half a second she shimmered — drone silhouette, maintenance insignia flickering into place. I jumped. Mag-locks sealed around my boots.
+
+“Route?”
+
+“Safe house number one : International Zone. Bosnia Pavilion.”
+
+Kinisi surged forward. Gravel scattered. Dust plume. A sharp lean between two banyan trunks. Holographic shell adjusting mid-curve. Thermal profile dampened.
+
+A security drone crossed overhead.
+
+Kinisi slightly changed configuration, hugging the terrain. My stomach lagged half a second behind acceleration.
+
+"M01ra?"
+
+Still no answer. Don't panic.
+
+We cut across the edge of the gardens, golden light over red soil.
