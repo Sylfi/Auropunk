@@ -640,3 +640,45 @@ Kinisi slightly changed configuration, hugging the terrain. My stomach lagged ha
 Still no answer. Don't panic.
 
 We cut across the edge of the gardens, golden light over red soil.
+
+------------------------
+
+CHAPTER 3 : PEACE
+
+I came out of my trance fully restored. Before resting, I had compartmentalised a small portion of my mind and linked it to the Pavilion’s security system, so the rest of me could sleep without worry.
+
+The Bosnia Pavilion was one of those buildings hastily erected by countries that insisted on having a representation in Auroville without worrying too much about what it would actually be used for. Judging by the state of the place, it also seemed unlikely that the project had ever been declared a matter of national interest back in Bosnia. The whole structure betrayed a lack of funding.
+
+Comically enough, the pavilion resembled those brutalist buildings from twentieth-century Soviet states, to which someone had hurriedly glued a few elements of Balkan folklore. Pale concrete, sharp angles, awkward decorative motifs — and absolutely no visitors.
+
+I had fallen asleep in a room that could generously be described as a miniature guest house in the basement. A luxury room, by Auroville standards, with its own shower. I took full advantage of it. The scalding Auroville water running over my body felt wonderful. My body was not in great shape, and it would take time before it regained balance.
+
+Clean clothes were waiting for me. Western clothes. Not really my style. M01ra had also included a pair of rather questionable underwear, probably as some form of consolation.
+
+Next to the clothes was an audio note.
+
+I played it.
+
+“Hey tambi. For the moment, you are Miroslav Govekar, cultural attaché of the Bosnian embassy in Delhi. The real Miroslav is currently enjoying himself in Goa, so we should be safe for a few days before we find you something more permanent.
+
+“Miroslav is officially supposed to organise cultural events at the pavilion. In reality a volunteer usually handles that, so you shouldn’t have to suffer through too many Balkan folklore performances.
+
+“As is often the case with pavilion staff, Miroslav also serves as a de facto consul in Auroville. And possibly a spy. Which, as you know, is fairly common practice. The Foundation knows it, Aurocorps knows it, the Bosnian government knows they know, and so on.
+
+“The advantage is that you now have higher access privileges than most people around here. The downside is that you’ll also be more closely monitored. Not ideal, but we’ll manage.
+
+“If everything went according to plan, we’ll meet at Ganeshu’s place later.
+
+“Oh, and by the way — I embedded an AA field in the clothes that copies the outer-being signature of the attaché. If Aurosys doesn’t focus on you too closely, they shouldn’t notice anything.
+
+“So try not to get naked in town.”
+
+The message ended. 
+
+Great. Now I had to keep walking around dressed like a penguin.
+
+I was ahead of time. I stepped out of the pavilion and made my way toward the Van Den Berg hill  to get a proper view of the city I had missed so much. The sun was bright and benevolent. My eyes grew wet. This city was still so beautiful.
+
+The lines of force — those immense arcologies capable of hosting thousands — rose slowly from the centre toward the outer ring, unfolding in a vast spiral, like a wave frozen in mid-motion. It created a strange feeling of safety: surrounded by those towering elevations, yet never confined by them, almost transported. The white and warm orange typical of Aurovillian architecture had been preserved, though here and there bursts of colour appeared — playful palettes, echoes of the exuberant Indian style that no planner had ever managed to fully tame.
+
+The hyper-density of the lines of force had allowed most of the forest planted by the Pioneers and enjoyed by the Villagers to remain. Green canopies and red earth still threaded through the city like an older memory beneath the new geometry, sheltered by the lines of force – our lines of hope. From this height, the Matrimandir, surrounded my its scintillating ring of blue water,  glowed at the centre of it all, anchoring the galaxy. 
