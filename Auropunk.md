@@ -681,4 +681,96 @@ I was ahead of time. I stepped out of the pavilion and made my way toward the Va
 
 The lines of force — those immense arcologies capable of hosting thousands — rose slowly from the centre toward the outer ring, unfolding in a vast spiral, like a wave frozen in mid-motion. It created a strange feeling of safety: surrounded by those towering elevations, yet never confined by them, almost transported. The white and warm orange typical of Aurovillian architecture had been preserved, though here and there bursts of colour appeared — playful palettes, echoes of the exuberant Indian style that no planner had ever managed to fully tame.
 
-The hyper-density of the lines of force had allowed most of the forest planted by the Pioneers and enjoyed by the Villagers to remain. Green canopies and red earth still threaded through the city like an older memory beneath the new geometry, sheltered by the lines of force – our lines of hope. From this height, the Matrimandir, surrounded my its scintillating ring of blue water,  glowed at the centre of it all, anchoring the galaxy. 
+The hyper-density of the lines of force had allowed most of the forest planted by the Pioneers and enjoyed by the Villagers to remain. Green canopies and red earth still threaded through the city like an older memory beneath the new geometry, sheltered by the lines of force – our lines of hope. From this height, the Matrimandir, surrounded my its scintillating ring of blue water,  glowed at the centre of it all, anchoring the galaxy.
+
+The rendezvous point was Mahalakshmi Park, where I was to meet M01ra before heading to the community where Ganeshu lived in the Line of Goodwill.
+
+At the centre of each park, the Gardening group had created a small desert garden — red earth, sun-bleached stones and a few stubborn shrubs clinging to life — a reminder of what the land had once been like when the Pioneers first arrived, so that we would always remember how much we owed them.
+
+M01ra was even earlier than I was. White and pale-orange robe. Mirrorshades.
+
+“Truth,” I said.
+
+“Yo!” she replied.
+
+“That was quite an adventure. Are you alright?”
+
+She chuckled. “Don’t worry. It’s not a forceful ejection from a body by a quasi-metaphysical being that’s going to hurt me.”
+
+I hoped she was telling the truth.
+
+“Savitri — she was trying to protect me—”
+
+“I don’t care. Her… its descent to the mortal plane was detected, but they couldn’t pinpoint the location. Some uncertainty-principle nonsense. It’s shifting fast these days. SAIIR can barely monitor it. So no worries on that front.”
+
+“What else?”
+
+“Galileo connection closed clean. AVI Stuttgart server logs clear. Persona Zero session terminated without a flag — or so it seems. Congratulations on that part.”
+
+“M01ra, the fish…”
+
+“We’ll talk later about the fish. Did you get anything?”
+
+“I’m sorry. I didn’t know what to look for… I tried to download everything onto my crystal.”
+
+I slipped the crystal to her discreetly.
+
+“I like your style,” she chuckled.
+
+“I had to abort prematurely.” I was beginning to sweat under my vest. “I’m sorry.”
+
+“It’s okay.” She hung the crystal around her neck. “We’ll go to Ganeshu’s and see what we can extract from it.”
+
+We took the monorail linking the International Zone to the Line of Goodwill.
+
+“He still hasn’t left the Line yet?”
+
+“The real question might be whether he’s even left his room yet,” she said jokingly. “There’s this stupid bet among some people living in the arcologies about who can stay inside the longest without leaving. Ganeshu is probably one of them.”
+
+“And we all know how stubborn he can be. And you — where do you live?”
+
+"Good old plain boring New Birth. I don’t like heights.”
+
+“And you’re too cool to live in the cool stuff.”
+
+“Hey, watch it.”
+
+We descended toward the Square of Benevolence, the junction between the Matrimandir gardens and the first level of the Line of Goodwill. Construction on the Line had begun soon after the Closure — the moment when we realised, in equal parts [incertain], terror and awe, that our faith had not been a dream. It's not a dream when it becomes real.
+
+Then the money tap opened wider than anyone had ever seen. The hopeless, the crazy billionaires, the fanatics, the reasonably reasonable States, even a few eschatological communities — all poured their offerings into the City of Dawn. So we began with the largest project of all: the Line of Goodwill. No more hesitating. No more tinkering. We had a manifest destiny, and we were going to show it.
+
+It took three years and a good portion of Eurasia’s concrete mixers to complete the skeleton. The end result was what could only be described as a Dalí-designed brutalist megastructure, its mass carved with fractal voids like a colossal Menger sponge. Vast cavities pierced the structure at every scale, letting light, wind and vegetation travel through it.
+
+At first it was almost entirely empty. Once the skeleton was completed, collectives — with the green light from L’Avenir — could purchase volumetric rights within the structure. These real-estate units ranged from roughly one to ten thousand square meters of internal space, large enough to host anything from a small residential cluster to a decent village suspended inside the Line. The rules were simple: 30 m² for a studio, 60 for a family apartment. Communal kitchens only, public services for everyone, and common spaces open to all. Gated communities? Nope.  Private property? Forget it.  Apart from that, do as you please. Complete architectural freedom.
+
+Want to experiment with modular habitats? Go ahead.
+Want your entire unit built in French-Indochina style? Enjoy.
+Want to grow an entire forest inside your atrium? Be my guest.
+
+Then Auroville became the next great fad among architecture studios. The arcology was turning into gigantic showrooms where major firms displayed their latest ideas. Everyone wanted a piece of Goodwill. Before long Auroville was hosting the first International Architecture Biennale, where you could actually *experience* the constructions. It didn’t take long before all the volumetric rights were bought and most of the units filled. That success only accelerated the pressure to erect the next Lines of Force.
+
+“Ganeshu’s community is roughly in the middle of the Line. It’ll be safer to take the roof.”
+
+“You sure? I’m sweating like hell in these clothes.”
+
+“It’ll be nice. Also you need fresh air. Also you need exercise — and the moving staircases make it easy. You can take off your vest, just make sure you keep it with you.”
+
+“And you’re telling me that *now* ?”
+
+At the entrance to the Line I presented Miroslav’s Aurocard to the drone, and we took the elevator up to the roof — only three storeys above.
+
+The Lines of Force were divided into roughly four levels. 
+
+The underground levels were devoted to food production. Long galleries carved into the laterite hosted mushroom farms, insect cultures, algae tanks and the substrate vats that fed the city’s machine ecologies. Water moved slowly through purification basins before being pumped back into the system.
+
+The ground level was the kingdom of the tourists. The great pedestrian axis leading to the Matrimandir passed through it — museums, galleries, tea houses, small shops, temporary accommodations, facilities hosting workshops open to all – our own little Disneyland. 
+
+The first level, known as the *comfy level*, was reserved for Aurovilians, Newcomers and sometimes long-term volunteers — those who were here to stay. Walkways, gardens, schools and quiet courtyards formed a mosaic of small, eclectic villages suspended between the structural ribs of the Line. 
+
+The second level, nicknamed the *cray-cray level* and favored by the Vitals, was something else entirely. Workshops, experimental habitats, music studios, half-legal markets, temporary collectives and ideas that sometimes lasted a week and sometimes ten years. The place never really slept.
+
+Finally the fourth level — the roof. A vast park stretched along the crest of the Line,  sometimes laid out in the strict geometry of French gardens like those around the Matrimandir, sometimes closer to the wandering English style of the old Botanical Garden. Farms, orchards, ponds catching the monsoon rain.
+
+"There we go" said M01ra. 
+
+
