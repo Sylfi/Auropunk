@@ -769,8 +769,81 @@ The first level, known as the *comfy level*, was reserved for Aurovilians, Newco
 
 The second level, nicknamed the *cray-cray level* and favored by the Vitals, was something else entirely. Workshops, experimental habitats, music studios, half-legal markets, temporary collectives and ideas that sometimes lasted a week and sometimes ten years. The place never really slept.
 
-Finally the fourth level — the roof. A vast park stretched along the crest of the Line,  sometimes laid out in the strict geometry of French gardens like those around the Matrimandir, sometimes closer to the wandering English style of the old Botanical Garden. Farms, orchards, ponds catching the monsoon rain.
-
 "There we go" said M01ra. 
 
+Finally the third level — the roof. A vast park stretched along the crest of the Line,  sometimes laid out in the strict geometry of French gardens like those around the Matrimandir, sometimes closer to the wandering English style of the old Botanical Garden. Farms, orchards, ponds catching the monsoon rain.
+
+Around twenty minutes later we arrived at Mother’s Flower Garden.
+
+It was a replica of the original one still preserved at ground level, between the Line of Serendipity and the Line of Revelation. Quite a feat in itself: the garden managed to cultivate nearly nine hundred of the flowers Mother had named. The air was thick with layered fragrances. Jasmine, tupaki, and something sharper  I couldn't quite recognise were the dominant scents. 
+
+Mother had insisted that each flower carried a commentary, so that walking there felt like wandering through an invisible library of meanings, each flower a sentence written in perfume.
+
+A wave of stupid nostalgia hit me. My blood brother and I running through the paths while our babysitter was too absorbed in a nenuphar.
+
+“Hey, monkey boy!”
+
+There was only one person who could call me that. I turned in that direction and finally saw him between the flowers. Ganeshu ran toward me with surprising grace and speed considering his build. I barely had time to react before he wrapped me in a crushing hug.
+
+Comfy.
+
+“Should I be worried that some people can still recognise others with their eyes?” I joked.
+
+“It’s because you’re too pretty. You feel like someone else. This is so weird.”
+
+“M01ra’s magic.”
+
+M01ra nodded without any visible expression. Knowing her, she had probably just accessed everything she could to check whether we had attracted the attention of any AuroSys subroutines.
+
+“But how can I be sure it’s really you, hmm?” Ganeshu said.
+
+“The smell?”
+
+“Just close your eyes and wait.”
+
+Ah. He was teasing.
+
+Nesh came back with a handful of flowers.
+
+“You’re going to get in trouble for this,” I warned him.
+
+“Which one is this?”
+
+I smiled.
+
+“*Tabernaemontana divaricata*. Pinwheel flower.”
+
+“… ”
+
+“Psychic Purity.”
+
+A big smile spread across Ganeshu’s face.
+
+“And this one?”
+
+“Solace. *The blessings that the Divine bestows on us.*”
+
+“And this one?”
+
+“*Tradescantia spathacea*. Divine Presence. *It hides from the ignorant eye its ever-present magnificence.*”
+
+Nesh gave me one of those unmistakably benevolent looks.
+
+“Sure can’t beat kurangu kutti.”
+
+M01ra interrupted, as expressionless as physically possible.
+
+“I’d love to join in the cuteness, but you’ve already sensitised several AuroSys nodes by picking those flowers. Also there is an elderly woman giving you a very intense stare, Ganeshu.”
+
+She paused.
+
+“And I believe she is your worst nightmare.”
+
+“Ah. Régine.”
+
+The French language can be very graphic.
+
+He ran toward her shouting apologies that were probably not going to be sufficient.
+
+“Mister Govekar,” M01ra said calmly, “we should go. We’ll take the next interior exit. He’ll join us once he survives that encounter.”
 
