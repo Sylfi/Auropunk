@@ -643,7 +643,7 @@ We cut across the edge of the gardens, golden light over red soil.
 
 ------------------------
 
-CHAPTER 3 : PEACE
+CHAPTER 5 : PEACE
 
 I came out of my trance fully restored. Before resting, I had compartmentalised a small portion of my mind and linked it to the Pavilion’s security system, so the rest of me could sleep without worry.
 
