@@ -847,3 +847,28 @@ He ran toward her shouting apologies that were probably not going to be sufficie
 
 “Mister Govekar,” M01ra said calmly, “we should go. We’ll take the next interior exit. He’ll join us once he survives that encounter.”
 
+The interior of the Line was not quite as tortuous as Auroville’s ground level, but it tried hard, in order to accommodate the no-gated-community / no-property rule of Auroville and the — all too human — need for the security of a private place: if you didn’t know where to go, there was a good chance you wouldn’t end up there.
+
+Thankfully, they had also tried to preserve the old habit of using two-wheelers as the main means of transportation, though in a downgraded, miniaturised version: those silly hoverboards that had been trending at the beginning of the 21st century — or so I think.
+
+Fifteen kilometers per hour maximum speed (theoretically…).
+The Mother’s wish, finally granted.
+
+“Still the same place?” I asked M01ra.
+
+“Yes. Inner Field. Of course he would choose the quietest spot in the most insane building on Earth,” she chuckled.
+
+After a few twists and turns, we arrived at the open entrance of Inner Field. Just as we were turning onto a smaller path, the strained whirring of a hoverboard could be heard behind us.
+
+“I’m still good at shortcuts!” panted ’Nesh.
+
+It felt strange to see him like this, he who had been so athletic during our teenage years. In the ATB classes, I often caught myself watching the effortless way he moved, drawn by the quiet certainty of his gestures, as if his body trusted the world more than mine ever could.
+
+Ganeshu’s current massive adiposity was deliberate, entirely of his own making. In a society where everyone hoped to make their body fit enough to welcome the supramental — and worked relentlessly toward it — his fatness was a clear, cheerful frack you to the collective expectation.
+
+His childish, almost silly need to shock, to rebel, was what had drawn me to him since high school. I had always struggled to understand the right way to behave around people; watching him ignore those complicated, invisible rules so completely felt like a kind of release to me — proof that one could simply discard them and somehow still survive, still remain whole.
+
+And there was something else I had sensed very early on: a strong sincerity in him, the kind we were told was the beginning of all real progress, reflected in that childlike insistence on being nothing but himself.
+
+"Home sweet home..."
+
