@@ -872,3 +872,127 @@ And there was something else I had sensed very early on: a strong sincerity in h
 
 "Home sweet home..."
 
+"So, what's in Inner Field ?" I asked 'Nesh.
+
+After a century of urban planning experiments, it had become obvious that zoning was a very problematic thing. To appease the more spiritually uncompromising members of the Foundation and *L’Avenir*, it had been decided that if zoning could exist nowhere, then it would have to exist everywhere.
+
+The city remained divided into four zones around the Matrimandir lake, but each zone was required to host at least one third of the functions of the other three. Within those sub-zones, if the available surface allowed it, one third again had to be allocated to the other functions — and so on, theoretically without end.
+
+According to some, this fractal arrangement increased the catalysing power of the Line. Savitri never denied it, nor did she confirm it.
+
+The architecture of the house was a reproduction of Roger and the others' first building, low rise, white and safran, with irregular curved shapes that represented their vision of the future in the 70s. It was for me the aesthetic equivalent of comfort food.
+
+“Apart from the housing, we’ve got a good old FabLab —mostly used to prototype exportable nonsense for the Outside"
+
+"Even after the debacle of the small-scale fusion cookers?" M01ra chuckles
+
+"The responsible persons for the small-scale fusion cooker debacle have been dealt with accordingly. In the cultural sector we host a subsection of the Auroville archives, mostly dedicated to the Closure ; I work there myself from time to time.  And in the Outside zone [Ed.: international zone] we host one of the training facilities of the Nigerian National Curling Association.”
+
+“The… what?”
+
+“Yes, me too. Anyway. I booked the little park for the three of us.”
+
+Inner Field was one of the communities that didn’t have access to external light. Instead of trying to reproduce it, they had chosen to take the situation at face value.
+
+The sky above the park was a permanent starry night.
+
+The exterior had been landscaped to resemble a *belle époque* garden, and the weather carefully engineered to maintain the light breeze of an eternal Parisian spring night.
+
+“Here. I delivered the two packages,” M01ra said, handing the data-crystal to ’Nesh and absent-mindedly messing up the hair I had just carefully combed. We could only retrieve a large chunk of unspecified data. Kesh’ will explain.
+
+“I’m sorry,” I said.
+
+“It’s better if the three of us are not registered at the same level for too long. I’ll take advantage of it and go to one of Elica’s workshops,” said M01ra.
+
+“The one with the past lives?” asked Ganeshu.
+
+“The one involving cacao, tantra, and didgeridoo. I stopped trying to understand with these kids. Truth!”
+
+Nesh brought the crystal in front of his eyes and activated the HUD.
+“So, a big mass of data, hmm?”
+
+“The security had gotten hyped up, then… Savitri expelled M01ra from my body.”
+
+“What?!”
+
+“Yes. She gets protective when she feels that something is off.”
+
+“And that she comes to you; that’s fracking crazy.”
+
+“From my point of view it’s different. Without M01ra to find what we were looking for, I did the first thing I could think of. I filtered with a few keywords and downloaded everything.”
+
+“I like your style.”
+
+“… — sarcasm?”
+
+“Yes.”
+
+“Because we were late on schedule, I heard someone approaching and I ran before I could complete the download. So we’ve got this.”
+
+“Talk about a needle in a haystack, like they used to say in the old days. I’ll go through it with M01ra and see if we can find something useful.”
+
+“There’s something else.”
+
+“?”
+
+“Savitri-∆ asked for something new: the recognition of a Manifestation outside of Auroville.”
+
+“And how would it want to do such a thing?” said Nesh, surprised.
+
+“I don’t know. Anyway, M01 uploaded my mental and my psychic into an AVI node…”
+
+“Truth! That was a very stupid thing to do.”
+
+“I know. Long story short, I found a fish.”
+
+“A fish.”
+
+“A small fish. Its Manifested rate was eighty-three point seventy-six percent.”
+
+Ganeshu looked at me as if he was rebooting after an update.
+
+“If I didn’t know you can’t lie, I would just think you’re taking the piss.”
+
+“Also, the quantity of divinised matter on the globe was far higher than the official numbers. I even saw some of it in low orbit. If UNAV gets to know this, God knows what they would do to us.”
+
+“…”
+
+“They cannot know. We have to make what I did impossible.”
+
+“And how do you propose to do that?”
+
+“I don’t know yet. There are several possibilities. I’ll have to talk to Noam.”
+
+“It’s dangerous.”
+
+“I know.”
+
+“… — A whole fish?”
+
+“*Paracheirodon innesi*. And outside of Auroville! My body cried. This is within the parameters of our simulations, but still. It was beautiful. I didn’t have the time to align with it, but the mere idea gives me goosebumps.”
+
+“Keshav the fish, ah!” laughed ’Nesh.
+
+“They cannot know.”
+
+“I know.”
+
+“They would bomb us, you know.”
+
+My hands were shaking.
+
+“We’ve got defenses.”
+
+True. Weapon contractors, millionaires, nation-states allied to our cause had encircled the City of Dawn with probably twice the number of ground-to-air defense systems that the city of Tel-Aviv had when it was still standing. It was also said that the Pillars of Containment were not only containing.
+
+They were also protecting.
+
+*But only one nuke…*
+
+My hands began to shake uncontrollably. Ganeshu knew me too well not to see the danger. He pulled me into his arms in a tight embrace.
+
+Comfy.
+
+“It’s ok, Aurobro. I’ll protect us.”
+
+He was the only one who knew how to bring me back. I let myself go, as I had so many times before.
