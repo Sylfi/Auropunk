@@ -996,3 +996,37 @@ Comfy.
 “It’s ok, Aurobro. I’ll protect us.”
 
 He was the only one who knew how to bring me back. I let myself go, as I had so many times before.
+
+### Chapter 4 : Goodness
+
+Situated at the very top of the Line, the Integral Interface Nodal Centre was filled with light — the exact opposite of my own community, which lived in permanent night. I enjoyed this contrast thoroughly. Hadn’t Shri Aurobindo said that everything should be welcomed, experienced and transformed?
+
+“How is Keshav?” M01ra asked with fake detachment.
+
+“He’s sleeping in my *cellule* at the moment. You put him through quite an ordeal, it seems.”
+
+“What? Just because he had to infiltrate one of the hardest facilities on Earth to infiltrate, break an unbreakable code, and engage twice with a divinity with unpredictable behaviour? What a wuss.”
+
+I chuckled. M01ra still had flashes of humour sometimes.
+
+“He’s stronger than people think he is, you know,” she said.
+
+“I know,” I answered, looking at the data-crystal that *tambi* had brought back from the Matrimandir, and inserting it into the console.
+
+“Are you sure we are safe from AuroSys, in this place of all places?” she asked.
+
+“It is the ONLY place where we can be completely sure to be safe from AuroSys. The Interface was designed to allow the shutdown of all AuroSys nodes in the area, and to block any communication attempts between AuroSys and the Center.”
+
+“Why would anyone build something like that?”
+
+“Just in case the AI went psycho mode and tried to kill us all, I guess.”
+
+“Trueness… chilling. Does it cut us off from Savitri too?”
+
+“Hmmm… I don’t think so. The Line was not conceived to host Savitri. Also, Savitri is *benevolent*…”
+
+“Hm.” M01ra snorted. “AIs are benevolent until they’re not…”
+
+“Ah! You could say the same about humans… So, let’s see what this little bad boy carries… Ready to dig into a few tera, console cowgirl?”
+
+“Yee-haw,” she said unmotivatedly, sitting down and aligning with the Interface console.
