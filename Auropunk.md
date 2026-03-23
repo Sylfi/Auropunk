@@ -1107,7 +1107,7 @@ She chuckled.
 
 “And how is AuroSys going to like it if a UNAV liaison starts doing Auro-tourism in some spooky abandoned place?”
 
-“It won’t. It will think I’m sipping coffee at the Liberty Café…because I’ll jump down the Line.”
+“It won’t. It will think I’m sipping coffee at Café Liberté…because I’ll jump down the Line.”
 
 ---
 
