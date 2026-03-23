@@ -997,7 +997,7 @@ Comfy.
 
 He was the only one who knew how to bring me back. I let myself go, as I had so many times before.
 
-### Chapter 4 : Goodness
+## Chapter 4 : Goodness
 
 Situated at the very top of the Line, the Integral Interface Nodal Centre was filled with light — the exact opposite of my own community, which lived in permanent night. I enjoyed this contrast thoroughly. Hadn’t Shri Aurobindo said that everything should be welcomed, experienced and transformed?
 
@@ -1013,7 +1013,31 @@ I chuckled. M01ra still had flashes of humour sometimes.
 
 “I know,” I answered, looking at the data-crystal that *tambi* had brought back from the Matrimandir, and inserting it into the console.
 
-“Are you sure we are safe from AuroSys, in this place of all places?” she asked.
+“So, what can you do with all these beeps and boops?” M01 asked, pointing at the monitors and controls in the control room.
+
+“Oh, basically running the balance of the Line System. Temperature, ventilation, traffic, energy, other networks, security, and whatnot. But actually AuroSys does 97% of it. Humans have been dispensable for a long time in this line of work. I am merely the excuse for human control.”
+
+“No wonder you got fat.”
+
+“How dare you!”
+
+“And the defense system?”
+
+“Part U.N., part Confederation of India, part Auroville International. I might have found some backdoors into some of them, but I never told you that.”
+
+“Pillars of containment?”
+
+“Unapproachable. Handshakes are not even functional. Protocols are so alien they don’t resemble any language. It gives me the heebie-jeebies.
+
+These things are freaky. The Theosophical Society was way too fast to give their great ‘present to the world’, so shortly after the early signs of the Manifestation.”
+
+“Those frackers might have saved our ass after all, but it would be good if our Intelligence looked into that one day.”
+
+“Because we have Intelligence?”
+
+“I thought it was you ?!”
+
+“Ah ah. Nayway, are you sure we are safe from AuroSys, in this place of all places?” 
 
 “It is the ONLY place where we can be completely sure to be safe from AuroSys. The Interface was designed to allow the shutdown of all AuroSys nodes in the area, and to block any communication attempts between AuroSys and the Center.”
 
@@ -1030,3 +1054,61 @@ I chuckled. M01ra still had flashes of humour sometimes.
 “Ah! You could say the same about humans… So, let’s see what this little bad boy carries… Ready to dig into a few tera, console cowgirl?”
 
 “Yee-haw,” she said unmotivatedly, sitting down and aligning with the Interface console.
+
+“So, bring me up to date. One of the divine coders has been a bad, bad boy?” I said.
+
+“And more than once. UNAV got word that Savitri-7 had some weird code in it. Markers identifying strains of DNA. Completely out of context,” said M01ra.
+
+“And what the Truth does that even mean?”
+
+“It means two things. One: we’ve got a rat on our team, and they’re going to pay. And two: UNAV wants answers, ASAP. They were already not thrilled that the work on the Line of Peace and the Line of Serenity is way ahead of schedule. And they really didn’t enjoy finding out that Savitri-7 is being launched this fast, with almost no warning and no real endorsement. They were about to go full bulldozer mode and send entire teams of IAPA experts to the Matrimandir, but I persuaded them to do something less grandiose… and less crisis-inducing”
+
+“By manipulating your closest friends into spying on their own people to get answers in a discreet fashion.”
+
+“There you go. Now I need to give them something so they can calm their tits, spin it as a terrible mistake, make sure the divine coders get a slap on the wrist, God’s in His heaven and all’s right with the world. And the juicier stuff, we keep to ourselves.”
+
+“I’m sure. That makes you a double agent… or a triple one?” I teased.
+
+“It makes me a very, very good girl. Now, what we’re looking for would be, I guess, data related to genetic identification… And our dear little brother downloaded 30% of the whole Council’s database on biogenetics…”
+
+“Haystack and stuff…”
+
+“…”
+“…”
+“…This is weird.”
+
+“Hm?”
+
+“This tag. EV-LAB. Stands for ‘Laboratory of Evolution’.”
+
+“And so?”
+
+“The thing is… we had the Library of the Laboratory of Evolution.”
+
+“…?”
+
+“But we never had a Laboratory of Evolution.”
+
+“…eh?”
+
+“It was a private joke when we were kids. Like Auroville can’t build anything the proper way. I liked it.”
+
+“So they’re going to throw books at the Manifestation or something?”
+
+“Or maybe now there is a Laboratory of Evolution, and it’s not in the registry.”
+
+“If I were running a super-duper secret project, I wouldn’t name the facility with a spooky name like Laboratory of Evolution. And how would Savitri not know about this?”
+
+“First: I don’t know. We have a lot of weird names that only become spooky once we imagine them hosting something nefarious. Sure, calling it Tanto’s Gelato would have been safer… though everyone would want to go there. Anyway. Second: as you know very well, Savitri asked for its substrate to be merged with the Matrimandir, the Crown Road, the Lines, and a few radials. But the low-rises were spared. And if I remember correctly, the Library of the Laboratory of Evolution lies at ground level, between the Line of Liberty and the Line of Ascent. It was already spooky back then.”
+
+She chuckled.
+
+“I’ll keep digging through the data. If I don’t find anything else, it’s worth a try.”
+
+“And how is AuroSys going to like it if a UNAV liaison starts doing Auro-tourism in some spooky abandoned place?”
+
+“It won’t. It will think I’m sipping coffee at the Liberty Café…because I’ll jump down the Line.”
+
+---
+
+
