@@ -1111,4 +1111,18 @@ She chuckled.
 
 ---
 
+## Chapter 5 : Perseverance
+
+The Lines situated in the business quarters of the industrial zones were similar to those of the residential zone, but inverted in shape: the highest levels faced the rest of the city, progressively lowering toward the outskirts.
+
+Standing on the upper level, one probably felt the same exhilaration as when standing on top of the phallic towers of the Outside. Maybe that had been the goal of the French bugger after all: to show that we could frack you up too, if we wanted.
+
+And perhaps that was exactly what we did. Since the mass production of AA fields, the city had maintained a positive net balance, jealously keeping the technology as a monopoly and artificially preserving its scarcity, so that scarcity within the city was slowly turning into something from a primitive age.
+
+Contrasting with the craziness of the residential Lines, those of the business district had the cold beauty of modernist architecture — layered white marble and reflective glass. Rumor had it the unit leaders had seriously intented to write AUROCORPS in gigantic letters across the façade, but the Foundation and the Council rejected the idea, arguing that it was little more than adolescent dick-measuring contest. We were *so* above that, after after. 
+
+In any case, the view from the Line of Liberty was beautiful, I had to admit. From up there, the upper gardens of the residential Lines gave the whole project a different meaning. Sitting beside me, Ganeshu had the same starry eyes as a child gazing at a Lego set he had finally completed.
+
+---
+
 
