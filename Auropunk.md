@@ -1123,6 +1123,103 @@ Contrasting with the craziness of the residential Lines, those of the business d
 
 In any case, the view from the Line of Liberty was beautiful, I had to admit. From up there, the upper gardens of the residential Lines gave the whole project a different meaning. Sitting beside me, Ganeshu had the same starry eyes as a child gazing at a Lego set he had finally completed.
 
----
+“Best place in the world, right?” Ganeshu said, starry-eyed.
+
+“Hm. Says the guy who’s hardly stepped out of the City,” I replied.
+
+“That’s not true. I go to New York for UN meetings from time to time.”
+
+“Tokyo, Paris, Bangalore, Shenzhen?”
+
+“Tits and tots on the holos…”
+
+“You can’t know if your city is ‘the best’ if you haven’t experienced the rest. Otherwise it’s just wishful thinking.”
+
+“Well, I see the view hasn’t mellowed you out. Maybe I can tempt you with one of our beautiful, home-grown hot chocolates?”
+
+“Sweet, but no thanks. I’d rather have an empty stomach when I jump. There are no cameras at this angle. Here’s one of Mother’s packets — the same one I used with Keshav when extracting the data from the Matrimandir.”
+
+Ganeshu’s eyes widened. “This is borderline blasph—”
+
+“Whatever. I layered an AA field over the original signature and mapped it to my Persona. It’s active.”
+
+“You wh—”
+
+“Now I’ll stay here with you while I go look around in our little laboratory.”
+
+“*Library* of the Laboratory of—”
+
+“Do you really want to get on my nerves right before I jump off a seventeen-storey building?”
+
+“Actually twenty-four if you count all the technical levels and—”
+
+“I’m out of here.”
+
+“Come on, I’m sorry. This is how I handle stress. No goodbye kiss?”
+
+I kissed him on the cheek. “See you later, fat frack.”
+
+“Don’t miss a step!”
+
+When I was five or six years old, I watched this ancient animated movie where the main character turns invisible and jumps off a building to escape… somewhere.
+Beyond the 2D visuals and the questionable animation, I found it extremely badass.
+
+ I asked a teacher about it. She explained all the philosophical and sociological implications of the film, the meaning behind its aesthetic choices and whatnot.
+
+I still found it very badass.
+
+A gazillion years later, I think that’s the reason I ended up with this pitch-black, layered bob haircut. Anyway.
+
+Now I had the chance to do the scene myself.
+
+Teachers used to warn us about the toxic, obscene relationship humans had developed with fiction — how it fed our desires, and those of the System, and how it would eventually make us miserable. 
+
+Frack it. 
+
+Maybe I didn’t want to be above that. Maybe I was dying to jump off a building in a cloaking suit.
+
+But no. It was *of course* the best way to reach the target.
+
+Going on foot with a spoofed persona layer? Too many optic cameras.
+Mass-hacking AuroSys nodes to slip through? Would take too long.
+
+So *obviously*, the *best* solution was to jump off a seventeen-but-actually-more-storey building and land in the derelict remains of the target compound, sitting at ground level a mere hundred meters from the Line.
+
+I stood at the edge.
+A *lot* of meters high — enough to make you think about how unnatural the position of your limbs would be once you smashed yourself onto the ground.
+
+The Line stretched beneath me in clean, deliberate layers — marble, glass, vegetation, repeat. *We get it.*
+
+Beyond it, the city unfolded in slow gradients, the Lines joyfully flickering their red-and-white obstruction lights, as if any plane would ever visit our no-fly zone.
+
+I realized that only here, at this exact moment, did Auroville look most like the galaxy it wanted to be — spirals filled with myriads of little stars shining through windows.
+
+For a moment, everything was perfectly still. Just that quiet suspension where the body waits for a decision the mind has already made.
+
+My toes hovered just past the edge.
+
+With all the simulations I had run, the drop didn’t feel dangerous. It felt… precise. As if the void itself had been calibrated. Accounted for. By me.
+
+*This is stupid.*
+
+That would be my outer mental, of course — one must have one if one is not to be disqualified in the game of natural selection. Teachers, legitimate risk assessments, survival instincts — all neatly packaged into a single, polite objection.
+
+I only needed half a second more. Alignment — all of me, and the vertical line that would become my fall.
+
+I leaned forward, just enough to feel gravity begin to negotiate.
+
+*You don’t have to do this.*
+
+True. Sometimes it’s not about what you need, but about what you want.
+
+I checked the parameters one last time on my HUD. Wind distortion: acceptable. Cloaking latency: within margin. AuroSys visibility window: minimal.
+
+All green.
+
+Of course it was. I had planned it.
+
+I smiled.
+
+And jumped.
 
 
