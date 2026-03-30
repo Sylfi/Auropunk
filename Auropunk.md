@@ -1113,15 +1113,17 @@ She chuckled.
 
 ## Chapter 5 : Perseverance
 
-The Lines situated in the business quarters of the industrial zones were similar to those of the residential zone, but inverted in shape: the highest levels faced the rest of the city, progressively lowering toward the outskirts.
+The Lines in the business quarters of the industrial zones were similar to those of the residential zone, but inverted in shape: the highest levels faced the rest of the city, gradually lowering toward the outskirts.
+
+AuroCorps, however, had pushed for a more vertical feel — narrower, and much, much taller. To keep the Foundation satisfied, Roger's seventeen-storey limit was technically respected. The cheating took other forms: higher ceilings, suspended gardens, oversized plazas, unregistered “patios,” and the occasional technical levels. Enough, in any case, to look down on the residential Lines.
 
 Standing on the upper level, one probably felt the same exhilaration as when standing on top of the phallic towers of the Outside. Maybe that had been the goal of the French bugger after all: to show that we could frack you up too, if we wanted.
 
 And perhaps that was exactly what we did. Since the mass production of AA fields, the city had maintained a positive net balance, jealously keeping the technology as a monopoly and artificially preserving its scarcity, so that scarcity within the city was slowly turning into something from a primitive age.
 
-Contrasting with the craziness of the residential Lines, those of the business district had the cold beauty of modernist architecture — layered white marble and reflective glass. Rumor had it the unit leaders had seriously intented to write AUROCORPS in gigantic letters across the façade, but the Foundation and the Council rejected the idea, arguing that it was little more than adolescent dick-measuring contest. We were *so* above that, after after. 
+Contrasting with the craziness of the residential Lines, those of the business district had the cold beauty of modernist architecture — layered white marble and reflective glass. Rumor had it the unit leaders had seriously intented to write AUROCORPS in gigantic letters across the façade, but the Foundation and the Council rejected the idea, arguing that it was little more than adolescent dick-measuring contest. We were *so* *above* that, after after. 
 
-In any case, the view from the Line of Liberty was beautiful, I had to admit. From up there, the upper gardens of the residential Lines gave the whole project a different meaning. Sitting beside me, Ganeshu had the same starry eyes as a child gazing at a Lego set he had finally completed.
+In any case, the view from the Line of Liberty was beautiful, I had to admit. From up there, the upper gardens of the residential Lines looked like miniature versions of themselves. Sitting beside me, Ganeshu had the same starry eyes as a child gazing at a Lego set he had finally completed.
 
 “Best place in the world, right?” Ganeshu said, starry-eyed.
 
@@ -1222,4 +1224,124 @@ I smiled.
 
 And jumped.
 
+Totally worth it.
 
+A brief moment of bliss — then reality kicked in.
+
+The Line snapped upward past me — white, glass, green — gone.
+
+Target acquired. The suit would carry me close enough.
+
+Cloak lagging. A ripple across my skin. Too visible for comfort. Not enough to matter.
+
+Velocity building. Clean. Stable.
+
+Wind profile within expected range. Minor lateral drift. Correcting.
+
+50 meters.
+
+The compound resolved below — broken angles, dust, shadows, trees. Lots of trees.
+
+No movement. No heat signatures except a few boars and porcupines. Promising.
+
+40 meters.
+
+Target vector locked. The suit adjusted my posture automatically — irritating, but effective.
+
+Wind shift. Wrong direction.
+
+Pushing against my back instead of supporting the fall.
+
+The famous frackface Auroville microclimate no one had ever managed to explain properly.
+
+This weather is finally going to kill me after all.
+
+30 meters.
+
+Too fast.
+
+Ignore.
+
+The suit was already compensating — micro-adjustments, pressure shifts, sections tightening, others inflating.
+
+This was going to hurt.
+
+20 meters.
+
+Still too fast.
+
+I needed a landing surface to dissipate the shock.
+
+Branches? Too risky — trunk impact probability too high.
+
+Vegetation layer at 12:10. Better than nothing.
+
+10 meters.
+
+5 meters.
+
+The ground finally became real.
+
+Impact.
+
+The suit absorbed most of it. Not enough to make it painless.
+
+Shock through the legs. Spine compressed. Teeth slammed shut. Breath gone.
+
+Still alive.
+
+Quick diagnostic:
+
+Bruising.
+Mild trauma in the lower spine.
+Moderate strain in the left thigh.
+
+Functional. Thigh hurts. Pain suppression engaged.
+
+Definitely worth it. No alarms. No drones. No response.
+
+Coolness
+
+---
+
+"Do you copy, Moï? Readings suggest you’re not dead,” Ganeshu’s voice sounded in my inner self.
+
+“I’m getting the same impression. All good. No visual on the target yet — it’s turned into a jungle down here.”
+
+“Do we really have to talk like we’re in a commando op? Because—”
+
+“Please shut up and help me.”
+
+“Alright. I managed to wake a few sleepy nodes in the area — old ones, probably from the very early days of the Grid. They’re under control. Didn’t trigger AuroSys’ watch… I think. You’re heading toward the main gate — I’ll open it for you. The lock shows up as online, but I have no idea if it’s actually connected to anything physical. Also, it’s going to rain in three minutes.”
+
+The place hadn’t been inhabited for a long time — or at least not maintained. The Powers That Be — and *L’Avenir* more than anyone — had focused almost entirely on the Lines. Apart from a few curated public spaces, the Ground was mostly left to self-management. Or simply abandoned, as seemed to be the case here : old industrial district, no reason for anyone to be around.
+
+A faint green LED flickered at the gate. Still locked. Something stuck.
+
+I gave it my own type of hacking : a precise reverse kick.
+
+The mechanism snapped open.
+
+“Did the signal I transmitted unlock the door?” Nesh asked.
+
+“Yes.”
+
+I stepped inside what passed for an inner garden.
+
+I’d been here before. Several times. When I was young. With Nesh and — with Nesh and anna.
+
+The place hadn’t changed much. It had already been in an advanced state of dereliction back then. We’d been fascinated by the strange, oversized machines those old hippie weirdos had tried to build.
+
+Attractors for the Earth’s “negative energy,” meant to prevent earthquakes — never implemented. The housing lobby would have had them killed !
+
+Hexagonal chambers filled with floating colored discs, supposedly emitting the right vibrations to cure disease — never completed. Big Pharma would have them assassinated ! 
+
+Kesh was always there, trailing behind us as usual, trying not to laugh at their techno-babble explanations. Little brat. I was ready to believe them.
+
+“Truth. You should see this. It hasn’t changed much,” I said to Ganeshu.
+
+“I’d love to. Can I align with you?”
+
+“As long as you don’t lose awareness of your own situation.”
+
+I opened the sockets of my vital and sensory channels to him. It felt like cold air entering a room. I never liked that. But with Ganeshu, it was fine.
