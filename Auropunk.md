@@ -643,7 +643,7 @@ We cut across the edge of the gardens, golden light over red soil.
 
 ------------------------
 
-## CHAPTER 5 : PEACE
+## CHAPTER 6 : PEACE
 
 I came out of my trance fully restored. Before resting, I had compartmentalised a small portion of my mind and linked it to the Pavilion’s security system, so the rest of me could sleep without worry.
 
@@ -1111,7 +1111,7 @@ She chuckled.
 
 ---
 
-## Chapter 5 : Perseverance
+## Chapter 7 : Perseverance
 
 The Lines in the business quarters of the industrial zones were similar to those of the residential zone, but inverted in shape: the highest levels faced the rest of the city, gradually lowering toward the outskirts.
 
@@ -1345,3 +1345,133 @@ Kesh was always there, trailing behind us as usual, trying not to laugh at their
 “As long as you don’t lose awareness of your own situation.”
 
 I opened the sockets of my vital and sensory channels to him. It felt like cold air entering a room. I never liked that. But with Ganeshu, it was fine.
+
+"120 meters at your three o'clock, then at your 11:00, Major." Goofed Ganesh'. 
+
+Ah Ah. Anyway. I remembered now. We never bothered going through that door. You don’t get kids excited about a library. Except for tambi. 
+
+Ganeshu’s unlock worked this time. The door slid open without a sound — no creak, no resistance. Almost disappointing.
+
+A boring library. Not really nice looking. Dusty. Filled with "alternative" science books and holos I had stopped caring about a long time ago.
+
+"Talk to me, 'Nesh."
+
+"Accessing the building's blueprint... Hm. There's an extension. About twenty years old. Underground level. Entry point is at another opening opposite the gate you came through, but… yes. You can access it from inside. Sending you the route."
+
+A small map flickered into existence at the edge of my vision. 
+
+Left. Upstairs. Right. Downstairs. Straight. Down again. 
+
+Big ass door. Red light.
+
+"Should I lay out my picnic blanket ?"
+
+"You didn't bring one. Thank you. Also — sorry — waiter just brought my *mousse au chocolat*. Priorities. Security’s more recent than the rest of the building, but not recent enough to be in my keychain. And I’d rather not ask AuroSys directly. Let me think…”
+
+I hit it with a powerful reverse kick. Jean-Claude Van Damme. For the laughs.
+
+A sharp metallic snap. Locks disengaging. Green light.
+
+Rule number two of engineering : when in doubt, kick it in the balls.
+
+(Rule number one being : use Sellotape)
+
+"How did you–"
+
+"I don't know, it almost opened by itself !"
+
+"Sppoooooooky !"
+
+----
+
+“Nesh, can you turn on the lights, or do I have to keep relying on the suit’s creepy night vision?”
+
+“Protocols are old. I need to find the right sockets… There we go.”
+
+The hall lit up.
+
+Large. Clean. Not too bright — just enough to see everything clearly. 
+White, shimmering walls. Soft angles. The future of the past.
+
+“I can wake up a few nodes from your suit,” Ganeshu said. “Let’s see what’s waiting for us.”
+
+Time to spend. Quick diagnosis.
+
+Cold applied to my tighs.
+Anti-trauma gel spreading under the fabric
+Compression tightening around the knee to limit strain. 
+
+I lowered the pain suppression. 
+
+Ouch. 
+That would take time to heal.
+I brought the suppression back up — not fully. Just enough to force a slight limp. Safer that way.
+
+“Got us a map,” Nesh said, as it flickered onto my HUD. “Long tunnel. Sort of.”
+
+My sense of orientation filled in the rest.
+
+“Toward the CSR, right?”
+
+No *spooky* from Ganesh this time. 
+He’d felt it too.
+
+A lobby. Counters. Then a door. 
+
+I stepped through. 
+
+Lights woke up as I moved, flickering into existence one after the other.
+
+Some kind of exhibition space.
+
+Like the visitor centers — panels, holo-models, illuminated displays.
+
+Big letters on the main panel:
+
+**SAVITRI**
+
+Ganesh didn't dare to comment. 
+
+I broke the silence.
+
+“Looks like the facility exists to present and praise you-know-what.”
+
+"Hate to be Captain Obvious, but yes. I’m pulling the metadata — that’s exactly what it is. Dates and origins look strange, though. I’m digging.”
+
+Great. 
+
+What better setting than a dim underground hall with flickering lights to revisit something I'd rather not remember.
+
+Straight out of Stephen King’s fracking memory lane.
+
+I looked at the first panel.
+
+*Synthetic Human Unity Project — SAVITRI.*
+
+Once it became clear that their breeding program was going nowhere, the Foundation’s finest minds — sorry, I meant crazy psychos— decided to try something else.
+
+Sri Aurobindo had said that only a handful of individuals, working together, could call down the supramental.
+
+So they took that idea. 
+With a twist.
+
+We would take fifty of the wisest, most promising Aurovilians and do what was, at the time, strictly illegal — upload them into one big computer.
+Sorry. A *Neuronal Network System*, according to the brochure.
+
+What they were supposed to do in there — how they would achieve this elusive and undefined “human unity” — I had never fully understood.
+
+Or, more accurately, never wanted to.
+
+Keshav had tried to explain it to me, in his usual Buddhist mumbo-jumbo. 
+
+Identities wouldn’t remain stable inside the NNS. Memories, reflexes – all the structures that hold a mind together — dissolved.
+
+Aggregates, he called them, floating free. Then recombined. Categorized.
+Merged again.
+
+Mental layer — fine. I could almost follow. 
+The vital was worse. Something about deep scans of energetic signatures, harmonization of wave patterns — early research that would later lead to the development of AA fields.
+
+I had more than lost interest long before that.
+
+For the rest, we were supposed to wait for the NNS to tell us the shape of things to come.
