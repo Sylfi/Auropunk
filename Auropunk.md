@@ -1488,5 +1488,3 @@ For the rest, we were supposed to wait for the NNS to tell us the shape of thing
 
 But I knew the real one. 
 I was there.
-
-I continued:
