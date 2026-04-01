@@ -643,7 +643,7 @@ We cut across the edge of the gardens, golden light over red soil.
 
 ------------------------
 
-## CHAPTER 6 : PEACE
+## CHAPTER 5 : PEACE
 
 I came out of my trance fully restored. Before resting, I had compartmentalised a small portion of my mind and linked it to the Pavilion’s security system, so the rest of me could sleep without worry.
 
@@ -997,7 +997,7 @@ Comfy.
 
 He was the only one who knew how to bring me back. I let myself go, as I had so many times before.
 
-## Chapter 4 : Goodness
+## Chapter 6: Goodness
 
 Situated at the very top of the Line, the Integral Interface Nodal Centre was filled with light — the exact opposite of my own community, which lived in permanent night. I enjoyed this contrast thoroughly. Hadn’t Shri Aurobindo said that everything should be welcomed, experienced and transformed?
 
