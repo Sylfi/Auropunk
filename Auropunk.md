@@ -1475,3 +1475,18 @@ The vital was worse. Something about deep scans of energetic signatures, harmoni
 I had more than lost interest long before that.
 
 For the rest, we were supposed to wait for the NNS to tell us the shape of things to come.
+
+“Ganeshu, how come we don’t know about this place? It looks… well. Very public.”
+
+“I don’t know. The dates are all over the place in the metadata… Probably after the program succeeded. You don’t build a whole gallery to glorify a new god if the theogenesis ended in a disaster, right?”
+
+“Or maybe they thought it had succeeded and realized too late that the only thing their divinity could do was trip balls and mumble to itself.”
+
+“Those weren’t exactly happy times… That would place it somewhere between the New Birth and the Closure. But then why not open it to the public once the Manifestation actually manifested?”
+
+“…Maybe they didn’t like the narrative anymore. There are a lot of truths about Savitri. People just pick the one they prefer.”
+
+But I knew the real one. 
+I was there.
+
+I continued:
