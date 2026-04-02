@@ -1,4 +1,4 @@
-## Chapter 5 : Perseverance
+## Chapter 7 : Perseverance
 
 The Lines in the business quarters of the industrial zones were similar to those of the residential zone, but inverted in shape: the highest levels faced the rest of the city, gradually lowering toward the outskirts.
 
