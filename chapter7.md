@@ -347,7 +347,7 @@ I looked at the first panel.
 
 *Synthetic Human Unity Project — SAVITRI.*
 
-Once it became clear that their breeding program was going nowhere, the Foundation’s finest minds — sorry, I meant crazy psychos— decided to try something else.
+Once it became clear that their breeding program was going nowhere, the [REDACTED]’s finest minds — sorry, I meant crazy psychos— decided to try something else.
 
 Sri Aurobindo had said that only a handful of individuals, working together, could call down the supramental.
 
