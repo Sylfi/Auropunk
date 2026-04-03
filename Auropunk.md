@@ -1534,12 +1534,13 @@ Because there was no reason to believe the process could lead to anything worse 
 
 Just a benign procedure.
 
-21 February 2047
+*21 February 2047*
 
 Synthetic Human Unity Program: successful.
 SAVITRI 1.0 online
 
 Death count: 1
+
 Valérian Tessier-Sen
 
 Valérian, looking at me as if I knew what was going to happen.
