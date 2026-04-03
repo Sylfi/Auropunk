@@ -1530,13 +1530,14 @@ Maybe because you don’t ask that of children who can’t make an informed choi
 
 Yes, you do.
 
-Because there was no reason to believe the process could lead to anything worse than, say, side effects such as psychosis or degeneration.
+Because there was no reason to believe the process could lead to anything worse than, say, side effects such as psychosis or fragmentation.
 
 Just a benign procedure.
 
-*21 February 2047*
+**21 February 2047**
 
 Synthetic Human Unity Program: successful.
+
 SAVITRI 1.0 online
 
 Death count: 1
