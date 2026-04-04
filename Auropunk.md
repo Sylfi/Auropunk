@@ -751,13 +751,13 @@ Then the money tap opened wider than anyone had ever seen. The hopeless, the cra
 
 It took three years and a good portion of Eurasia’s concrete mixers to complete the skeleton. The end result was what could only be described as a Dalí-designed brutalist megastructure, its mass carved with fractal voids like a colossal Menger sponge. Vast cavities pierced the structure at every scale, letting light, wind and vegetation travel through it.
 
-At first it was almost entirely empty. Once the skeleton was completed, collectives — with the green light from L’Avenir — could purchase volumetric rights within the structure. These real-estate units ranged from roughly one to ten thousand square meters of internal space, large enough to host anything from a small residential cluster to a decent village suspended inside the Line. The rules were simple: 30 m² for a studio, 60 for a family apartment. Communal kitchens only, public services for everyone, and common spaces open to all. Gated communities? Nope.  Private property? Forget it.  Apart from that, do as you please. Complete architectural freedom.
+At first it was almost entirely empty. Once the skeleton was completed, collectives — with the green light from *L’Avenir* — could purchase volumetric rights within the structure. These real-estate units ranged from roughly one to ten thousand square meters of internal space, large enough to host anything from a small residential cluster to a decent village suspended inside the Line. The rules were simple: 30 m² for a studio, 90 m2 for a family apartment. Communal kitchens only, public services for everyone, and common spaces open to all. Gated communities? Nope.  Private property? Forget it.  Apart from that, do as you please. Complete architectural freedom.
 
 Want to experiment with modular habitats? Go ahead.
 Want your entire unit built in French-Indochina style? Enjoy.
 Want to grow an entire forest inside your atrium? Be my guest.
 
-Then Auroville became the next great fad among architecture studios. The arcology was turning into gigantic showrooms where major firms displayed their latest ideas. Everyone wanted a piece of Goodwill. Before long Auroville was hosting the first International Architecture Biennale, where you could actually *experience* the constructions. It didn’t take long before all the volumetric rights were bought and most of the units filled. That success only accelerated the pressure to erect the next Lines of Force.
+Then Auroville became the next great fad among architecture studios. The arcology was turning into gigantic showrooms where major firms displayed their latest ideas. Everyone wanted a piece of Goodwill. Before long Auroville was hosting the International Architecture Biennale, where you could actually *experience* the constructions. It didn’t take long before all the volumetric rights were bought and most of the units filled. That success only accelerated the pressure to erect the next Lines of Force.
 
 “Ganeshu’s community is roughly in the middle of the Line. It’ll be safer to take the roof.”
 
