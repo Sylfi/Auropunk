@@ -1,5 +1,7 @@
 # Auroville 2067 : Tears of Savitri
 
+## Navigation
+
 - [01 — Aspiration](#chapter-1--aspiration)
 - [02 — Truth](#chapter-2--truth)
 - [03 — Sincerity](#chapter-3--sincerity)
