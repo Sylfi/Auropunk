@@ -687,7 +687,7 @@ The message ended.
 
 Great. Now I had to keep walking around dressed like a penguin.
 
-I was ahead of time. I stepped out of the pavilion and made my way toward the Van Den Berg hill  to get a proper view of the city I had missed so much. The sun was bright and benevolent. My eyes grew wet. This city was still so beautiful.
+I was ahead of time. I stepped out of the pavilion and made my way toward the Van Den Berg hill  to get a proper view of the city I had missed so much. The sun was bright and benevolent. My eyes grew wet. This city was still so beautiful. I had cried for days when they had revoked my access. 
 
 The lines of force — those immense arcologies capable of hosting thousands — rose slowly from the centre toward the outer ring, unfolding in a vast spiral, like a wave frozen in mid-motion. It created a strange feeling of safety: surrounded by those towering elevations, yet never confined by them, almost transported. The white and warm orange typical of Aurovillian architecture had been preserved, though here and there bursts of colour appeared — playful palettes, echoes of the exuberant Indian style that no planner had ever managed to fully tame.
 
