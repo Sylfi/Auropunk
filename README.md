@@ -1,7 +1,14 @@
 # Auroville 2067 : Tears of Savitri
 
-## Table of content
+## Navigation
 
+- [01 — Aspiration](#chapter-1--aspiration)
+- [02 — Truth](#chapter-2--truth)
+- [03 — Sincerity](#chapter-3--sincerity)
+- [04 — Progress](#chapter-4--progress)
+- [05 — Peace](#chapter-5--peace)
+- [06 — Goodness](#chapter-6-goodness)
+- [07 — Perseverance](#chapter-7--perseverance)
 
 ## Chapter 1 : Aspiration
 
@@ -646,7 +653,7 @@ We cut across the edge of the gardens, golden light over red soil.
 
 ------------------------
 
-## CHAPTER 5 : PEACE
+## Chapter 5 : Peace
 
 I came out of my trance fully restored. Before resting, I had compartmentalised a small portion of my mind and linked it to the Pavilion’s security system, so the rest of me could sleep without worry.
 
