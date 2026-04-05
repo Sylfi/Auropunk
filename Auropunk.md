@@ -16,19 +16,19 @@ At dawn, the Crown Road burned red — laterite dust pressed into the asphalt by
 
 I rode through it just before sunrise, my bike almost an outgrowth of the road itself, its engine rumbling with a restless, half-conscious desire for the red curve beneath it.
 
-Auroville looked peaceful from a distance — the forest canopy, the wide sky, the gold glimmer of the Matrimandir — but up close the place breathed with a strange tension, a mix of incense and burnt circuitry. Aurocorps had tightened control again last night. You could feel it in the air: the hum of new surveillance nodes, the latency between signals growing shorter, the way even the wind seemed to carry encrypted directives.
+Auroville looked peaceful from a distance — the forest canopy, the wide sky, the gold glimmer of the Matrimandir — but up close the place breathed with a strange tension, a mix of incense and burnt circuitry. AuroSys had tightened control again last night. You could feel it in the air: the hum of new surveillance nodes, the latency between signals growing shorter, the way even the wind seemed to carry encrypted directives.
 
-I kept my head low. I wasn’t supposed to be here — not on the forest path, but beyond Savitri's predictive margins. When they revoked my status six months ago for “interpretational deviance,” it wasn’t symbolic. They erased my access, my Persona, even my contribution credits. As far as the system was concerned, I didn’t exist.
+I kept my head low. I wasn’t supposed to be here — not on the forest path, but beyond Aurosys's predictive margins. When they revoked my status six months ago, it wasn’t symbolic. They erased my access, my contribution credits, even my Persona. As far as the system was concerned, I didn’t exist.
 
 Ironically, that might be my only advantage tonight.
 
-The Matrimandir was closed to Aurovilians and Newcomers at this hour. The inner programs needed space to rerun — diagnostics, recalibrations, silent protocol checks that required the absence of witnesses. The Mother might have once welcomed seekers at dawn, but Savitri preferred empty corridors and clean data.
+The Matrimandir was closed to Aurovilians and Newcomers at this hour. The inner programs needed space to rerun — diagnostics, recalibrations, silent protocol checks that required the absence of witnesses. The Mother might have once welcomed seekers at dawn, but AuroSys preferred empty corridors and clean data.
 
 Still, I couldn’t help thinking that the divine Mother, or whatever fragments of her lingered in the pillars — had always had a weakness for ghosts.
 
-On paper, the job was simple: break in, reach the inmost chamber, extract the training logs, and leave before AuroSys detected a breach in its encryption layers. In practice, nothing inside Savitri’s domain was ever simple. The system did not rely on walls. It relied on coherence.
+On paper, the job was simple: break in, reach the inmost chamber, extract the data, and leave before AuroSys detected a breach in its encryption layers. In practice, nothing inside Auroville’s domain was ever simple. The system did not rely on walls. It relied on coherence.
 
-And if I failed, AuroCorps wouldn’t need to arrest me. They would simply revise the narrative.
+And if I failed, they wouldn’t need to arrest me. They would simply revise the narrative.
 
 And I would wake up aligned.
 
@@ -36,7 +36,7 @@ And I would wake up aligned.
 
 I parked my Kinisi near the old dolmen circle — one of the few relics the spiraling densification had miraculously spared. She stood on the opposite side of the rising sun, outlined in gold and shadow, drawing a slow breath from her portable air compressor. 
 
-M01ra looked almost the same as when I’d first met her in the Forest Group, years before the factionisations. The same stillness. The same refusal to perform. Only her features were sharper now, and faint shadows had settled under her eyes. She had sensed me the moment I arrived. She didn’t bother turning. Her gaze remained fixed on the golden sphere ahead.
+M01ra looked almost the same as as the last time we met in the Forest Group. The same stillness. Only her features were sharper now, and faint shadows had settled under her eyes. She had sensed me the moment I arrived. She didn’t bother turning. Her gaze remained fixed on the golden sphere ahead.
 
 “Truth,” I said.
 
@@ -104,7 +104,7 @@ Of course. Plausible deniability.
 
 She reached into her coat and handed me a small envelope, sealed in thin, age-stained paper.
 
-“Mother’s packet,” she said. “Distributed in 1956. Officially to the Duke of Erlington before his American tour. Unofficially — don’t ask.”
+“Mother’s packet,” she said. “Distributed in 1956. Officially to the Duke of Erlington before his American tour.”
 
 For a moment, I decohered. Using one of Mother’s packets bordered on blasphemy — if we had ever truly been a religion.
 
@@ -190,7 +190,7 @@ The red light softened, though it did not disappear. The sentinel drifted aside.
 
 “Good Mother,” M01ra snapped. “Are you having one of your fits again? Because I need to know.”
 
-“No,” I said. “I… I don’t think so. It’s different. I think we — I think I interfaced with her.”
+“No,” I said. “I… I don’t think so. It’s different. I think we — I think I interfaced with Her.”
 
 Silence.
 
