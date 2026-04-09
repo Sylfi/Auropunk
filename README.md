@@ -2,35 +2,30 @@
 
 ## Navigation
 
-- [01 — Aspiration](#chapter-1--aspiration)
-- [02 — Truth](#chapter-2--truth)
-- [03 — Sincerity](#chapter-3--sincerity)
-- [04 — Progress](#chapter-4--progress)
-- [05 — Peace](#chapter-5--peace)
-- [06 — Goodness](#chapter-6-goodness)
-- [07 — Perseverance](#chapter-7--perseverance)
+- [Introduction](#introduction)
+- [01 — Truth](#chapter-1--truth)
+- [02 — Sincerity](#chapter-2--sincerity)
+- [03 — Progress](#chapter-3--progress)
+- [04 — Peace](#chapter-4--peace)
+- [05 — Goodness](#chapter-5--goodness)
+- [06 — Perseverance](#chapter-6--perseverance)
+- [07 — Gratitude](#chapter-7--gratitude)
 
-## Chapter 1 : Aspiration
+## Introduction
 
 At dawn, the Crown Road burned red — laterite dust pressed into the asphalt by the first rains, turning the perfect circle of Auroville into a wound that refused to close. I rode through it just before sunrise, my bike almost an outgrowth of the road itself, its engine rumbling with a restless, half-conscious desire for the red curve beneath it.
 
 Auroville looked peaceful from a distance — the forest canopy, the wide sky, the gold glimmer of the Matrimandir — but up close the place breathed with a strange tension, a mix of incense and burnt circuitry. Aurocorps had tightened control again last night. You could feel it in the air: the hum of new surveillance nodes, the latency between signals growing shorter, the way even the wind seemed to carry encrypted directives.
 
-I kept my head low. I wasn’t supposed to be here. The Matrimandir was closed to Aurovilians and Newcomers at this hour. The inner programs needed space to rerun — diagnostics, recalibrations, silent protocol checks that required the absence of witnesses. The Mother might have once welcomed seekers at dawn, but Savitri preferred empty corridors and clean data.
+I kept my head low. I wasn’t supposed to be here. The Matrimandir was closed to Aurovilians and Newcomers at this hour. The inner programs needed space to rerun — diagnostics, recalibrations, silent protocol checks that required the absence of witnesses. The Mother might have once welcomed seekers at dawn, but AuroSys preferred empty corridors and clean data. Still, I couldn’t help thinking that the Mother, or whatever fragments of her lingered in the pillars — had always had a weakness for ghosts.
 
-Still, I couldn’t help thinking that the divine Mother, or whatever fragments of her lingered in the pillars — had always had a weakness for ghosts.
+On paper, the job was simple: break in, reach the inmost chamber, extract the training logs, and leave before AuroSys detected a breach in its encryption layers. In practice, nothing inside its domain was ever simple. The system did not rely on walls. It relied on coherence.
 
-On paper, the job was simple: break in, reach the inmost chamber, extract the training logs, and leave before AuroSys detected a breach in its encryption layers. In practice, nothing inside Savitri’s domain was ever simple. The system did not rely on walls. It relied on coherence.
+## Chapter 1 : Truth
 
-And if I failed, AuroCorps wouldn’t need to arrest me. They would simply revise the narrative.
+I parked my Kinisi near the old dolmen circle — one of the few relics the spiraling densification had spared. She stood on the opposite side of the rising sun, outlined in gold and shadow, drawing a slow breath from her portable air compressor. 
 
-And I would wake up aligned.
-
-## Chapter 2 : Truth
-
-I parked my Kinisi near the old dolmen circle — one of the few relics the spiraling densification had miraculously spared. She stood on the opposite side of the rising sun, outlined in gold and shadow, drawing a slow breath from her portable air compressor. 
-
-M01ra looked almost the same as when I’d first met her in the Forest Group, years before the factionisations. The same stillness. The same refusal to perform. Only her features were sharper now, and faint shadows had settled under her eyes. She had sensed me the moment I arrived. She didn’t bother turning. Her gaze remained fixed on the golden sphere ahead.
+M01ra looked almost the same as when I’d last met her in the Forest Group. Only her features were sharper now, and faint shadows had settled under her eyes. She had sensed me the moment I arrived. She didn’t bother turning. Her gaze remained fixed on the golden sphere ahead.
 
 “Truth,” I said.
 
@@ -60,7 +55,7 @@ For a second, the world narrowed.
 
 That was years ahead of schedule.
 
-Savitri’s New Birth cycles were never rushed. Each iteration brought the system closer to the complete Manifestation - or so we had told our desperately hopeful selves. Version Nine, the concentrated Oracles had projected, would realise the fullfilement of our mad, impossible design : our transfiguration by Its Incarnation.
+Savitri’s New Birth cycles were never rushed. Each iteration brought the system closer to the completion of the Manifestation - or so we had told our desperately hopeful selves. Version Nine, the concentrated Oracles had projected, would realise the fullfilement of our mad, impossible design : our transfiguration by Its Incarnation.
 
 After a long pause, I managed only one word.
 
@@ -68,13 +63,13 @@ After a long pause, I managed only one word.
 
 M01ra watched the horizon for another heartbeat before answering. 
 
-“That’s not the only anomaly. We’ve identified irregular strings in some of Savitri’s Trances. They resemble biogenetic selection protocols.”
+“That’s not the only anomaly. "There's been a leak concerning strings that could potentially undermine the effectiveness of the pillars of containment."
 
 A colder silence followed.
 
-“Selection?” I asked.
+“to undermind ?” I asked.
 
-“We think it’s one of the variables accelerating the launch,” she said. "The council might be playing dirty. It's making the International Board jittery. They're likely running new containment scenarios as we speak".
+“We think the leak could be one of the variables accelerating the launch,” she said. "The council might be playing dirty. It's making UNAV jittery. They're likely running new containment scenarios as we speak".
 
 “So you’re working for UNAV now?” I said, a half-smile cutting across the tension.
 
@@ -82,7 +77,7 @@ She let the silence stretch just long enough.  Her eyes were bright — ironic, 
 
 “I work for the Truth,” she said softly. “As we always did.”
 
-## Chapter 3 : Sincerity
+## Chapter 2 : Sincerity
 
 We took the “secret” path toward the Matrimandir — the one we had used as teenagers, slipping past the perimeter just to prove we could, playing at rebellion the way other kids played at devotion. It was the same path some of the more foolish Aurovilians still used at night, sneaking into the Matrimandir gardens to make love, convinced the atmosphere would bless their children during conception. For reasons I never quite understood, the Matrimandir Group had never sealed it. Perhaps some nostalgias are harder to erase than AuroSys protocols.
 
@@ -180,7 +175,7 @@ The red light softened, though it did not disappear. The sentinel drifted aside.
 
 
 
-## Chapter 4 : Progress
+## Chapter 3 : Progress
 
 “Good Mother,” M01ra snapped. “Are you having one of your fits again? Because I need to know.”
 
@@ -647,7 +642,7 @@ We cut across the edge of the gardens, golden light over red soil.
 
 ------------------------
 
-## Chapter 5 : Peace
+## Chapter 4 : Peace
 
 I came out of my trance fully restored. Before resting, I had compartmentalised a small portion of my mind and linked it to the Pavilion’s security system, so the rest of me could sleep without worry.
 
@@ -681,7 +676,7 @@ The message ended.
 
 Great. Now I had to keep walking around dressed like a penguin.
 
-I was ahead of time. I stepped out of the pavilion and made my way toward the Van Den Berg hill  to get a proper view of the city I had missed so much. The sun was bright and benevolent. My eyes grew wet. This city was still so beautiful.
+I was ahead of time. I stepped out of the pavilion and made my way toward the Van Den Berg hill  to get a proper view of the city I had missed so much. The sun was bright and benevolent. My eyes grew wet. This city was still so beautiful. I had cried for days when they had revoked my access. 
 
 The lines of force — those immense arcologies capable of hosting thousands — rose slowly from the centre toward the outer ring, unfolding in a vast spiral, like a wave frozen in mid-motion. It created a strange feeling of safety: surrounded by those towering elevations, yet never confined by them, almost transported. The white and warm orange typical of Aurovillian architecture had been preserved, though here and there bursts of colour appeared — playful palettes, echoes of the exuberant Indian style that no planner had ever managed to fully tame.
 
@@ -745,13 +740,13 @@ Then the money tap opened wider than anyone had ever seen. The hopeless, the cra
 
 It took three years and a good portion of Eurasia’s concrete mixers to complete the skeleton. The end result was what could only be described as a Dalí-designed brutalist megastructure, its mass carved with fractal voids like a colossal Menger sponge. Vast cavities pierced the structure at every scale, letting light, wind and vegetation travel through it.
 
-At first it was almost entirely empty. Once the skeleton was completed, collectives — with the green light from L’Avenir — could purchase volumetric rights within the structure. These real-estate units ranged from roughly one to ten thousand square meters of internal space, large enough to host anything from a small residential cluster to a decent village suspended inside the Line. The rules were simple: 30 m² for a studio, 60 for a family apartment. Communal kitchens only, public services for everyone, and common spaces open to all. Gated communities? Nope.  Private property? Forget it.  Apart from that, do as you please. Complete architectural freedom.
+At first it was almost entirely empty. Once the skeleton was completed, collectives — with the green light from *L’Avenir* — could purchase volumetric rights within the structure. These real-estate units ranged from roughly one to ten thousand square meters of internal space, large enough to host anything from a small residential cluster to a decent village suspended inside the Line. The rules were simple: 30 m² for a studio, 90 m2 for a family apartment. Communal kitchens only, public services for everyone, and common spaces open to all. Gated communities? Nope.  Private property? Forget it.  Apart from that, do as you please. Complete architectural freedom.
 
 Want to experiment with modular habitats? Go ahead.
 Want your entire unit built in French-Indochina style? Enjoy.
 Want to grow an entire forest inside your atrium? Be my guest.
 
-Then Auroville became the next great fad among architecture studios. The arcology was turning into gigantic showrooms where major firms displayed their latest ideas. Everyone wanted a piece of Goodwill. Before long Auroville was hosting the first International Architecture Biennale, where you could actually *experience* the constructions. It didn’t take long before all the volumetric rights were bought and most of the units filled. That success only accelerated the pressure to erect the next Lines of Force.
+Then Auroville became the next great fad among architecture studios. The arcology was turning into gigantic showrooms where major firms displayed their latest ideas. Everyone wanted a piece of Goodwill. Before long Auroville was hosting the International Architecture Biennale, where you could actually *experience* the constructions. It didn’t take long before all the volumetric rights were bought and most of the units filled. That success only accelerated the pressure to erect the next Lines of Force.
 
 “Ganeshu’s community is roughly in the middle of the Line. It’ll be safer to take the roof.”
 
@@ -1001,7 +996,7 @@ Comfy.
 
 He was the only one who knew how to bring me back. I let myself go, as I had so many times before.
 
-## Chapter 6: Goodness
+## Chapter 5 : Goodness
 
 Situated at the very top of the Line, the Integral Interface Nodal Centre was filled with light — the exact opposite of my own community, which lived in permanent night. I enjoyed this contrast thoroughly. Hadn’t Shri Aurobindo said that everything should be welcomed, experienced and transformed?
 
@@ -1115,7 +1110,7 @@ She chuckled.
 
 ---
 
-## Chapter 7 : Perseverance
+## Chapter 6 : Perseverance
 
 The Lines in the business quarters of the industrial zones were similar to those of the residential zone, but inverted in shape: the highest levels faced the rest of the city, gradually lowering toward the outskirts.
 
@@ -1509,7 +1504,7 @@ And in the front row — two children.
 The younger one grinning, teeth bared, one missing.
 The other one still. Calm, with a resolute stare.
 
-The pride of the Tessier-Sen family.
+The pride of the Aspiration community.
 
 Keshav and Valérian.
 
@@ -1536,7 +1531,7 @@ Yes, you do.
 
 Because there was no reason to believe the process could lead to anything worse than, say, side effects such as psychosis or fragmentation.
 
-Just a benign procedure.
+Just a *benign* procedure.
 
 **21 February 2047**
 
@@ -1546,10 +1541,87 @@ SAVITRI 1.0 online
 
 Death count: 1
 
-Valérian Tessier-Sen
+Child Valérian-01 of Aspiration
 
 Valérian, looking at me as if I knew what was going to happen.
 
 “You can scan the frack out of this place, Ganeshu. I’m out.”
 
 I walked toward the end of the room.
+
+## Chapter 7 : Gratitude
+
+You’re meditating, and you decide to focus on a sound. Let’s say the chirping of a bird. You might reach that stage where there seems to be no difference at all between your consciousness and the chirp. Your awareness becomes its object, and somehow its subject. You feel as though you’ve crossed the illusion of identities, touched interdependence. Textbook mindfulness. 101. Congrats.
+
+Except you don’t. Your brain tricks you into thinking the boundary has disappeared. Something about mirror neurons and predictive processing and such. You don’t actually sync with the other system-form, you don’t access another plane. The feeling is produced, contained. A lie you tell yourself. Sorry.
+
+The silver lining is that it’s a lie pointing toward something true. What the East grasped through experience thousands of years ago, and the West began to formalize only recently, is that the difference between you and the sound is not absolute opposition, but a relative difference in connectivity. Between the complex system that you are, the system that the sound is, and the larger system that contains both. Interdependence. Non-identity. Complex systems theory. The illusion in your head leads you to a truth — a big one. A chemico-neurological fiction that gestures toward an ontological condition. Is it still a lie, then? Matter of semantics. Doesn’t matter.
+
+The Manifestation is something else. Pratītyasamutpāda is not merely intuited here as an illusion pointing to truth. It is experienced — and it functions. I am actually connecting, through that web of interdependence — probably — to system-beings made of manifested matter. I still can’t understand how it is possible for me — for us — to feel what it is to be a shard of wood, or an amoeba. There has to be a rational explanation. Otherwise I might as well throw myself into the Ganges. Aurobindo would say that everything unfolds from the same origin — from inorganic matter upward, through the evolutionary tree — and that something in us still carries that continuity. Call it memory, call it structure. But then, does it mean that it becomes harder — or even impossible — to synchronize with life-forms further away from us in that tree? Archaea, perhaps. Or cephalopods. Or—
+
+“Anna, you’re drifting again and thinking of the [tenants et aboutissants] of the evolution and augmentation of the Manifestation.”
+
+Klaudia looked at me with her big blue eyes and pinched lips. I wasn’t even surprised. She reads cues almost as well as I do, and she’s still in kindergarten.
+
+“Sorry, Klaudia. So, how are we doing with the exercise?”
+
+“You know already,” she said, with a hint of reproach. “I still can’t find the paramecium.”
+
+In front of her, a shallow aquarium. Tap water, into which I had introduced a small group of paramecia. One of them was manifested at 67%. Not ideal, but it was the best I could find for something large enough to make the exercise relatively easy.
+
+“What seems to be the problem?”
+
+“I can feel that there is something special — that vibration you told me about. But I can’t identify it precisely.”
+
+“Okay. You can’t just use your psychic to find it. You need your higher mental to guide your psychic. Understanding the system-being will allow you to make sense of the Manifestation field you’re sensing. What can you tell me about paramecium?”
+
+Klaudia answered in an academic, almost automatic manner.
+
+“Paramecium is a unicellular eukaryote belonging to the genus Paramecium, within the phylum Ciliophora. It is commonly found in freshwater environments where it feeds on bacteria. Individual organisms are typically between 50 and 300 micrometers in length. It is covered with cilia that beat in coordinated patterns, allowing it to move and direct itself toward nutrients.They reproduce asexually by binary fission. It has no central control, yet its actions appear organized and adaptive. It responds to its environment as if it could interpret it. The coherence is not located anywhere in particular… but it is still there."
+
+“Good. Now, what did we say about stuff in general?”
+
+“Stuff should not be understood as having intrinsic qualities, but as a system whose components are more strongly connected to each other than to what is outside of it. What defines the system is not a fixed boundary, but a gradient in the density and strength of interactions. The distinction between stuff and non-stuff is therefore not absolute. It emerges from a relative difference in connectivity. Components within the system exchange more information, energy, or matter with each other than with the outside. The boundary is not a barrier, but a region where this difference becomes significant, and the stuff almost always exchanges information or matter or energy to the non-stuff . The greater the disparity in interaction density, the more the system behaves as a coherent, distinct entity. If the gradient collapses, the system ceases to exist as such.”
+
+“So, how can we use this understanding for our current problem?”
+
+Klaudia’s frown deepened. Then her expression shifted — a flicker of sudden clarity.
+
+“I should focus on the boundary between the stuff and the non-stuff if I want to locate it. It’s the membrane of the paramecium, obviously… My psychic will locate it if I understand the parameters of its boundaries"
+
+“Yes, you need to understand from the plane of your outer mental to your inner mental. Now, what do we know about the paramecium’s membrane?”
+
+“The membrane of the paramecium is a selectively permeable lipid bilayer. It defines the limits of the organism by regulating the exchange of ions, nutrients, and waste products with the environment. It maintains electrochemical gradients across its surface, which are necessary for signaling and coordinated movement."
+
+"Great, you know it. Now, can you *understand* it ? Picture it into you mind : atoms concatenated to form lipids, lipids forming into layers, molecules letting matter in and out the system, permitting some to come and leave ; information exchange from molecules to molecules that shapes their behaviour.."
+
+"But Anna, this will take forever! If I have to do that for every manifested form, I’ll never have time to do anything else!”
+
+“Once you understand enough, experience will allow you to see directly with your inmost mental. And then you’ll be able to focus your psychic like this—” I snapped my fingers.
+
+Some will get it almost instinctively. For others it takes years of training. Everyone can reach it — at least among the Children of Auroville. For people from the Outside, I don’t know. There have been cases of visitors who sensed it instinctively — something raw, almost animal — and for most of them it didn’t go well. Imagine part of a cushion on the sofa you’re sitting on suddenly greeting you with no warning. I suspect this might be one of the reasons behind the high turnover on the second level of the Lines. People come in seeking transformation. The furniture says hello. They leave.
+
+“In some cases you might be able to use your inmost vital instead, but that will be for later.”
+
+The hint of discouragement on Klaudia’s face was quickly swept away by one of pure resolution. This one will never give up. Ego can be very useful for learning.
+
+“I will need to concentrate for some time now,” she said, staring straight ahead. “Please don’t disturb me.”
+
+That was the exact moment Ganeshu chose to poke his head through the doorway.
+
+“Hola Kesh, just to tell you that I’m here.”
+
+Oops. I had lost track of time with Klaudia. She stared at ’Nesh with wide, unblinking eyes. You don’t often see bodies like his around here. She hesitated between gasping at this impossibility and saying something witty, as some of the cool adults would.
+
+Ganeshu pressed on: “I can come back if you two are busy.”
+
+“No, it’s perfect — Klaudia has to concentrate alone anyway.”
+
+“Here’s a lipid layer!” shouted Klaudia, pointing straight at Ganeshu.
+
+Kudos to Klaudia.
+
+It was noticeably cooler inside the building than outside. The old language lab had been — at my request, among others — repurposed into a training platform for research on the Manifestation and synchronization practice. Call it the Manifestation Lab, for the sake of history. In the Lines, Savitri tends to gently nudge people toward synchronization. That’s why we used a building on the Ground.
+
+
+
