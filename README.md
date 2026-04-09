@@ -12,17 +12,11 @@
 
 ## Chapter 1 : Aspiration
 
-At dawn, the Crown Road burned red — laterite dust pressed into the asphalt by the first rains, turning the perfect circle of Auroville into a wound that refused to close.
-
-I rode through it just before sunrise, my bike almost an outgrowth of the road itself, its engine rumbling with a restless, half-conscious desire for the red curve beneath it.
+At dawn, the Crown Road burned red — laterite dust pressed into the asphalt by the first rains, turning the perfect circle of Auroville into a wound that refused to close. I rode through it just before sunrise, my bike almost an outgrowth of the road itself, its engine rumbling with a restless, half-conscious desire for the red curve beneath it.
 
 Auroville looked peaceful from a distance — the forest canopy, the wide sky, the gold glimmer of the Matrimandir — but up close the place breathed with a strange tension, a mix of incense and burnt circuitry. Aurocorps had tightened control again last night. You could feel it in the air: the hum of new surveillance nodes, the latency between signals growing shorter, the way even the wind seemed to carry encrypted directives.
 
-I kept my head low. I wasn’t supposed to be here — not on the forest path, but beyond Savitri's predictive margins. When they revoked my status six months ago for “interpretational deviance,” it wasn’t symbolic. They erased my access, my Persona, even my contribution credits. As far as the system was concerned, I didn’t exist.
-
-Ironically, that might be my only advantage tonight.
-
-The Matrimandir was closed to Aurovilians and Newcomers at this hour. The inner programs needed space to rerun — diagnostics, recalibrations, silent protocol checks that required the absence of witnesses. The Mother might have once welcomed seekers at dawn, but Savitri preferred empty corridors and clean data.
+I kept my head low. I wasn’t supposed to be here. The Matrimandir was closed to Aurovilians and Newcomers at this hour. The inner programs needed space to rerun — diagnostics, recalibrations, silent protocol checks that required the absence of witnesses. The Mother might have once welcomed seekers at dawn, but Savitri preferred empty corridors and clean data.
 
 Still, I couldn’t help thinking that the divine Mother, or whatever fragments of her lingered in the pillars — had always had a weakness for ghosts.
 
