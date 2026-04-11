@@ -1,4 +1,4 @@
-# Auroville 2067 : Tears of Savitri
+# Auroville 2067 : Shards of Savitri
 
 ## Navigation
 
