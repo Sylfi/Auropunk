@@ -1,5 +1,7 @@
 # Auroville 2067 : Shards of Savitri
 
+This novel is a cyberpunk pastiche of set in Auroville. Sit back, relax, enjoy the cyberpunk tropes and the Auroville lore, and have fun ! 
+
 ## Navigation
 
 - [Auroville 2067 : Shards of Savitri](#auroville-2067--shards-of-savitri)
