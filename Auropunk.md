@@ -1548,29 +1548,29 @@ I walked toward the end of the room.
 
 ## Chapter 7 : Gratitude
 
-The Language lab never needed air conditionning. It breathes on its own. 
+The Language Lab never needed air conditioning. It breathes on its own.
 
-Particules of Manifested matter are now numerous enough for me to follow the movements of that breath. I can’t see it, but I can *experience* it. The building breathes through a series of shafts placed at different points along its structure. Ducts run deep below the soil, then rise like towers into the sky. Cool air from the underground, hot air above the roof. You do the math. Through the simple laws of thermodynamics, the warmer air rises, pulling colder air up from below, which then spreads through the building via openings carved into the shafts. A slow, continuous path – just enough imbalance to keep eveything moving.
+Particles of Manifested matter are now numerous enough for me to follow the movements of that breath. I can’t see it, but I can *experience* it. The building breathes through a series of shafts placed at different points along its structure. Ducts run deep below the soil, then rise like towers into the sky. Cool air from the underground, hot air above the roof. You do the math. Through the simple laws of thermodynamics, the warmer air rises, pulling colder air up from below, which then spreads through the building via openings carved into the shafts. A slow, continuous path — just enough imbalance to keep everything moving.
 
-Did our ancestors got it through watching termites, or did they do the maths by themselves ? Will synchronisation make us better architects, or are our maths already good enough ? Maybe we could instore a sort of feedback loop where – 
+Did our ancestors figure it out by watching termites, or did they do the maths by themselves? Will synchronisation make us better architects, or are our maths already good enough? Maybe we could create some sort of feedback loop where—
 
-“*Anna*, you’re lost in the Manifestation again !”
+“*Anna*, you’re lost in the Manifestation again!”
 
 Klaudia looks at me with her big blue eyes and pinched lips. I’m not even surprised she knows. She reads cues almost as well as I do, and she’s still in first grade. Or maybe I just look absent-minded. I try to read her expression, but I can’t tell whether that grumpy face is genuine or if she’s just playing with me.
 
-“Sorry, Klaudia. So, how are we doing with the paramecium ?”
+“Sorry, Klaudia. So, how are we doing with the paramecium?”
 
-“You know already,” she says, with a hint of reproach. “I still can’t find it".
+“You know already,” she says, with a hint of reproach. “I still can’t pinpoint where it is.”
 
-In front of her, a shallow aquarium. Tap water, into which I have introduced a small group of paramecia. One of them is manifested at 67%. Not ideal, but it is the best I could find for something large enough to make the exercise relatively easy.
+In front of her sits a shallow aquarium filled with tap water, into which I have introduced a small group of paramecia. One of them is Manifested at 67%. Not ideal, but it’s the best I could find for something large enough to make the exercise relatively easy.
 
 “What seems to be the problem?”
 
-“I can feel that there is something special — that vibration you told me about. But I can’t find exactly where it is.
+“I can feel that there is something special — that vibration you told me about. But I can’t tell exactly where it is.”
 
-"This is a great start. You’re already able to access your subtle physical and use it. With training, you’ll be able to locate it more precisely. But to recognize it — and eventually experience it — you’ll need your mental. How would you describe a paramecium ?"
+“This is a great start. You’re already able to access your subtle physical and use it. With training, you’ll be able to locate it more precisely. But to recognize it — and eventually experience it — you’ll need your mental. How would you describe a paramecium?”
 
-Klaudia began answering in a half-academic tone. I’m now fairly certain she’s taking the piss. If all the little ones start developing sarcasm this early, I swear I’ll vanish into some obscure Villager unit and live the rest of my life in dignified silence.
+Klaudia begins answering in a half-academic tone. I’m now fairly certain she’s taking the piss. If all the little ones start developing sarcasm this early, I swear I’ll vanish into some obscure Villager unit and live the rest of my life in dignified silence.
 
 “It’s a tiny unicellular organism, sort of oval-shaped. Inside there’s lots of stuff like cytoplasm, a nucleus, vacuoles, organelles… It moves using thousands of little cilia all around its body, feeds on bacteria and reproduces by splitting itself in two. Which is quite funny.”
 
@@ -1580,23 +1580,23 @@ Klaudia began answering in a half-academic tone. I’m now fairly certain she’
 
 “And there’s a lot of stuff inside other stuff too, right?”
 
-“…Yes,” Klaudia replied, making only the faintest effort to hide her impatience.
+“…Yes,” Klaudia replies, making only the faintest effort to hide her impatience.
 
 “The Manifestation in this paramecium isn’t complete enough for your subtle being to recognize the organism as a whole. So if you try to attune to the complete model, you won’t find it. Could there be a simpler way to identify it? Not through the entirety of the system, but through a smaller part?”
 
 Pause.
 
-"Can you remind me how we defined ‘stuff’ in our last ontology class?”
+“Can you remind me how we defined ‘stuff’ in our last ontology class?”
 
-Klaudia suppressed a small snort. I don’t know why, but everyone in that class finds the word *ontology* endlessly funny.
+Klaudia suppresses a small snort. I don’t know why, but everyone in that class finds the word *ontology* endlessly funny.
 
-Then came the same academic tone again.
+Then comes the same academic tone again.
 
-“Every stuff is something made up of other stuff. The reason we, as observers, can identify it as stuff is because its components are connected to one another more strongly than to the rest of the Great Stuff that is, everything. They exchange more information, energy, and matter with each other than with what lies outside them. That is how a system emerges — something we can distinguish as both part of, and separate from, the Great Stuff.”
+“Any given stuff is made up of other stuff. The reason we, as observers, can identify it as stuff is because its components are connected to one another more strongly than to the rest of the Great Stuff that is everything. They exchange more information, energy, and matter with each other than with what lies outside them. That is how a system emerges — something we can distinguish as both part of, and separate from, the Great Stuff.”
 
 Klaudia is finally beginning to focus. We’re getting somewhere.
 
-“Stuff that has become very complex — like living stuff— needs a physical boundary between itself and the rest of the Great Stuff in order to remain functional, meaning, for life : to continue existing, and to reproduce itself. This boundary has two functions. One, it keeps the system’s components together so they don’t simply dissolve back into the Great Stuff. Two, it allows certain things from the Great Stuff to pass through — energy, matter, information. Otherwise, the stuff would cease to be.”
+“Stuff that has become very complex — like living stuff — needs a physical boundary between itself and the rest of the Great Stuff in order to remain functional, meaning: to continue existing and reproduce itself. This boundary has two functions. One, it keeps the system’s components together so they don’t simply dissolve back into the Great Stuff. Two, it allows certain things from the Great Stuff to pass through — energy, matter, information. Otherwise, the stuff would cease to be.”
 
 Her expression shifts.
 
@@ -1612,27 +1612,25 @@ Now we’re getting serious.
 
 Go on. Show me memory implants have become obsolete.
 
-“…The membrane of the paramecium is soft. Mushy. Only a few molecules thick. It’s organized into just two layers. The molecules are lipids — fats. Carbon, hydrogen, oxygen… phosphorus, nitrogen…”
+“…The membrane of the paramecium is soft. Mushy. Only a few molecules thick. It’s organised into just two layers. The molecules are lipids — fats. Carbon, hydrogen, oxygen… phosphorus, nitrogen…”
 
 “No need to zoom in that far. What does it do?”
 
-Klaudia’s brow tightened slightly.
+Klaudia’s brow tightens slightly.
 
 “The molecules have two sides. The head likes water. The tail wants to escape from it. So in the double layer, the heads face outward and inward, while the tails hide in the middle. The tails that fear water press against each other and seal the organism, keeping it separate from the Great Stuff.”
 
 A pause.
 
-“But the membrane also keeps it connected to the Great Stuff. It decides what comes in and what comes out. Proteins embedded between the lipids do that. Some are little valves. Some are pumps. Some detect things. None of them are controlled. They react automatically through simple chemical and electrical mechanisms…”
+“But the membrane also keeps it connected to the Great Stuff. It decides what comes in and what comes out. Proteins embedded between the lipids do that. Some are little valves. Some are pumps. Some detect things. Nothing really controls them. They react automatically through simple chemical and electrical mechanisms…”
 
-Truthely good.
-
-Almost impressive, actually.
+Truthfully? That was almost impressive.
 
 “That’s good. You know it — and I’m pretty sure you understand it too. But can you *see* it?”
 
 Klaudia remains motionless, eyes half-closed.
 
-“The vibration you physically feel, you’ll eventually learn to pinpoint through recognition. Your mental identifies the process. Then your vital learns its pattern and remembers it.”
+“The vibration you’re physically sensing, you’ll eventually learn to pinpoint through recognition. Your mental identifies the process. Then your vital learns its pattern and remembers it.”
 
 Klaudia still hasn’t emerged from her trance, yet she answers me directly, staring vaguely at the wall.
 
