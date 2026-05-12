@@ -1548,85 +1548,108 @@ I walked toward the end of the room.
 
 ## Chapter 7 : Gratitude
 
-You’re meditating, and you decide to focus on a sound. Let’s say the chirping of a bird. You might reach that stage where there seems to be no difference at all between your consciousness and the chirp. Your awareness becomes its object, and somehow its subject. You feel as though you’ve crossed the illusion of identities, touched interdependence. Textbook mindfulness. 101. Congrats.
+The Language lab never needed air conditionning. It breathes on its own. 
 
-Except you don’t. Your brain tricks you into thinking the boundary has disappeared. Something about mirror neurons and predictive processing and such. You don’t actually sync with the other system-form, you don’t access another plane. The feeling is produced, contained. A lie you tell yourself. Sorry.
+Particules of Manifested matter are now numerous enough for me to follow the movements of that breath. I can’t see it, but I can *experience* it. The building breathes through a series of shafts placed at different points along its structure. Ducts run deep below the soil, then rise like towers into the sky. Cool air from the underground, hot air above the roof. You do the math. Through the simple laws of thermodynamics, the warmer air rises, pulling colder air up from below, which then spreads through the building via openings carved into the shafts. A slow, continuous path – just enough imbalance to keep eveything moving.
 
-The silver lining is that it’s a lie pointing toward a truth. What the East grasped through experience thousands of years ago, and the West began to formalize only recently, is that the difference between you and the sound is not absolute opposition, but a relative difference in connectivity. Between the complex system that you are, the system that the sound is, and the larger system that contains both. Interdependence. Non-identity. Complex systems theory. The illusion in your head leads you to a truth — a big one. A chemico-neurological fiction that gestures toward an ontological condition. Is it still a lie, then? Matter of semantics. Doesn’t matter.
+Did our ancestors got it through watching termites, or did they do the maths by themselves ? Will synchronisation make us better architects, or are our maths already good enough ? Maybe we could instore a sort of feedback loop where – 
 
-The Manifestation, this is something else. Pratītyasamutpāda is not merely intuited here as an illusion pointing to truth. It is experienced, and it is functionnal. I am actually connecting, through that web of interdependence — probably — to system-beings made of Manifested matter. I still can’t understand how it is possible for me — for us — to feel what it is to be a shard of wood, or an amoeban, with my mammal brain made for mammals. There has to be a rational explanation, otherwise I might as well throw myself into the Ganges. Aurobindo would say that everything unfolds from the same origin — from inorganic matter upward, through the evolutionary tree — and that something in us still carries that continuity. Call it genetic memory, or something like that. But then, does it mean that it becomes harder — or even impossible — to align with life-forms further away from us in that tree? Archaea, perhaps. Or cephalopods. Or—
+“*Anna*, you’re lost in the Manifestation again !”
 
-“Anna, you’re drifting again and thinking of the whys and wherefores of the Manifestation.”
+Klaudia looks at me with her big blue eyes and pinched lips. I’m not even surprised she knows. She reads cues almost as well as I do, and she’s still in first grade. Or maybe I just look absent-minded. I try to read her expression, but I can’t tell whether that grumpy face is genuine or if she’s just playing with me.
 
-Klaudia looked at me with her big blue eyes and pinched lips. I wasn’t even surprised. She reads cues almost as well as I do, and she’s still in kindergarten.
+“Sorry, Klaudia. So, how are we doing with the paramecium ?”
 
-“Sorry, Klaudia. So, how are we doing with the exercise?”
+“You know already,” she says, with a hint of reproach. “I still can’t find it".
 
-“You know already,” she said, with a hint of reproach. “I still can’t find the paramecium.”
-
-In front of her, a shallow aquarium. Tap water, into which I had introduced a small group of paramecia. One of them was manifested at 67%. Not ideal, but it was the best I could find for something large enough to make the exercise relatively easy.
+In front of her, a shallow aquarium. Tap water, into which I have introduced a small group of paramecia. One of them is manifested at 67%. Not ideal, but it is the best I could find for something large enough to make the exercise relatively easy.
 
 “What seems to be the problem?”
 
-“I can feel that there is something special — that vibration you told me about. But I can’t identify it precisely.”
+“I can feel that there is something special — that vibration you told me about. But I can’t find exactly where it is.
 
-“Okay. You can’t directly use your psychic to find it. You need your higher mental to guide your it. Understanding the system-being will allow you to make sense of the Manifestation field you’re sensing. What can you tell me about paramecium?”
+"This is a great start. You’re already able to access your subtle physical and use it. With training, you’ll be able to locate it more precisely. But to recognize it — and eventually experience it — you’ll need your mental. How would you describe a paramecium ?"
 
-Klaudia answered in an academic manner.
+Klaudia began answering in a half-academic tone. I’m now fairly certain she’s taking the piss. If all the little ones start developing sarcasm this early, I swear I’ll vanish into some obscure Villager unit and live the rest of my life in dignified silence.
 
-“Paramecium is a unicellular eukaryote belonging to the genus Paramecium, within the phylum Ciliophora. It is commonly found in freshwater environments where it feeds on bacteria. Individual organisms are typically between 50 and 300 micrometers in length. It is covered with cilia that beat in coordinated patterns, allowing it to move and direct itself toward nutrients.They reproduce asexually by binary fission. It has no central control, yet its actions appear organized and adaptive. It responds to its environment as if it could interpret it. The coherence is not located anywhere in particular… but it is still there."
+“It’s a tiny unicellular organism, sort of oval-shaped. Inside there’s lots of stuff like cytoplasm, a nucleus, vacuoles, organelles… It moves using thousands of little cilia all around its body, feeds on bacteria and reproduces by splitting itself in two. Which is quite funny.”
 
-“Good. Now, what did we say about stuff in general?”
+“There’s a lot of stuff inside it, right?”
 
-The same academic voice.
+“Yes.”
 
-Stuff should not be understood as having intrinsic qualities, but as a system whose components are more strongly connected to each other than to what lies outside. These components exchange more information, energy, or matter among themselves than with their surroundings. The boundary of the system is therefore not an absolute barrier, but a region that maintains this higher internal connectivity. If the gradient between internal and external exchanges collapses, the system ceases to exist — and the stuff is no longer stuff.
+“And there’s a lot of stuff inside other stuff too, right?”
 
-“So, how can we use this understanding for our current problem?”
+“…Yes,” Klaudia replied, making only the faintest effort to hide her impatience.
 
-Klaudia’s frown deepened. Then her expression shifted — a flicker of sudden clarity.
+“The Manifestation in this paramecium isn’t complete enough for your subtle being to recognize the organism as a whole. So if you try to attune to the complete model, you won’t find it. Could there be a simpler way to identify it? Not through the entirety of the system, but through a smaller part?”
 
-“I should focus on the boundary between the stuff and the non-stuff if I want to locate it. It’s the membrane of the paramecium, obviously… My psychic will locate it if I understand the parameters of its boundaries"
+Pause.
 
-“Yes, you need to understand from the plane of your outer mental to your inner mental. Now, what do we know about the paramecium’s membrane?”
+"Can you remind me how we defined ‘stuff’ in our last ontology class?”
 
-“...The membrane of the paramecium is a selectively permeable lipid bilayer. It defines the limits of the organism by regulating the exchange of ions, nutrients, and waste products with the environment. It maintains electrochemical gradients across its surface, which are necessary for signaling and coordinated movement."
+Klaudia suppressed a small snort. I don’t know why, but everyone in that class finds the word *ontology* endlessly funny.
 
-"Great, you know it. Now, can you *understand* it ? Picture it into you mind : atoms concatenated to form lipids, lipids forming into layers, molecules letting matter in and out the system, permitting some to come and leave ; information exchange from molecules to molecules that shapes their behaviour.."
+Then came the same academic tone again.
 
-"But Anna, this will take forever! If I have to do that for every Manifested form, I’ll never have time to do anything else!”
+“Every stuff is something made up of other stuff. The reason we, as observers, can identify it as stuff is because its components are connected to one another more strongly than to the rest of the Great Stuff that is, everything. They exchange more information, energy, and matter with each other than with what lies outside them. That is how a system emerges — something we can distinguish as both part of, and separate from, the Great Stuff.”
 
-“Once you understand enough, experience will allow you to see directly with your inmost mental. And then you’ll be able to focus your psychic like this—” I snapped my fingers.
+Klaudia is finally beginning to focus. We’re getting somewhere.
 
-Some will get it almost intuitively. For others it takes years of training. Everyone can reach it — at least among the Children of Auroville. For people from the Outside, I don’t know. There have been cases of visitors who sensed it instinctively – and for most of them it didn’t go well. Imagine parts of a cushion on the sofa you’re sitting on suddenly greeting you with no warning. I suspect this might be one of the reasons behind the high turnover on the second level of the Lines. People come in seeking transformation. The furniture says hello. They leave.
+“Stuff that has become very complex — like living stuff— needs a physical boundary between itself and the rest of the Great Stuff in order to remain functional, meaning, for life : to continue existing, and to reproduce itself. This boundary has two functions. One, it keeps the system’s components together so they don’t simply dissolve back into the Great Stuff. Two, it allows certain things from the Great Stuff to pass through — energy, matter, information. Otherwise, the stuff would cease to be.”
 
-“You’ll be able to use your physical vital to the same effect, but it’s a bit more complex. We’ll get to it later.”
+Her expression shifts.
 
-“No. It’s easier *your* way for *you* because you’re a *big nerd*, anna!”
+She’s getting it.
+
+“That’s it! I need to focus on the boundary between the stuff and the Great Stuff first. The membrane of the paramecium.”
+
+“What do we know about it?”
+
+Klaudia’s eyes narrow halfway shut. She’s beginning to enter a trance.
+
+Now we’re getting serious.
+
+Go on. Show me memory implants have become obsolete.
+
+“…The membrane of the paramecium is soft. Mushy. Only a few molecules thick. It’s organized into just two layers. The molecules are lipids — fats. Carbon, hydrogen, oxygen… phosphorus, nitrogen…”
+
+“No need to zoom in that far. What does it do?”
+
+Klaudia’s brow tightened slightly.
+
+“The molecules have two sides. The head likes water. The tail wants to escape from it. So in the double layer, the heads face outward and inward, while the tails hide in the middle. The tails that fear water press against each other and seal the organism, keeping it separate from the Great Stuff.”
+
+A pause.
+
+“But the membrane also keeps it connected to the Great Stuff. It decides what comes in and what comes out. Proteins embedded between the lipids do that. Some are little valves. Some are pumps. Some detect things. None of them are controlled. They react automatically through simple chemical and electrical mechanisms…”
+
+Truthely good.
+
+Almost impressive, actually.
+
+“That’s good. You know it — and I’m pretty sure you understand it too. But can you *see* it?”
+
+Klaudia remains motionless, eyes half-closed.
+
+“The vibration you physically feel, you’ll eventually learn to pinpoint through recognition. Your mental identifies the process. Then your vital learns its pattern and remembers it.”
+
+Klaudia still hasn’t emerged from her trance, yet she answers me directly, staring vaguely at the wall.
+
+“But Anna, this will take forever! If I have to do that for every Manifested form, I’ll never have time to do anything else!”
+
+“Once your vital remembers the pattern, you’ll be able to synchronize with it like this—”
+
+I snap my fingers.
+
+“Yes, at first it feels like you’ll have to learn everything about everything. But once you recognize the vital pattern of atoms, and understand how they assemble into molecules, you’ll begin recognizing the vital pattern of the molecules too. It’s a symphony. Every layer teaches you the next one.”
+
+I smile.
+
+“And thankfully, it gets easier with practice.”
+
+“No, it's easy for *you* because you’re a *big nerd*, *anna*!”
 
 I stifle a laugh — *it’s funny because it’s true*. She’s reckless.
 
-“You’ll be able to align both ways. I know that for a fact.”
-
-The hint of discouragement on Klaudia’s face quickly swept away by one of pure resolution. This one will never give up. Ego can be very useful for learning.
-
-“I will need to concentrate for some time now,” she said, staring straight ahead. “Please don’t disturb me.”
-
-That was the exact moment Ganeshu chose to poke his head through the doorway.
-
-“Truthy truth guys; just to tell you that I’m here.”
-
-Oops. I had lost track of time with Klaudia. She stared at ’Nesh with wide, unblinking eyes. You don’t often see bodies like his around here. She hesitated between gasping at this impossibility and saying something witty, as some of the cool adults would.
-
-Ganeshu pressed on: “I can come back if you two are busy.”
-
-“No, it’s perfect — Klaudia has to concentrate alone anyway.”
-
-“Here’s a lipid layer!” shouted Klaudia, pointing straight at Ganeshu.
-
-Kudos to Klaudia.
-
-It was noticeably cooler inside the building than outside. The old language lab had been — at my request, among others — repurposed into a training platform for research on the Manifestation and synchronization practice. Call it the Manifestation Lab, for the sake of history. In the Lines, Savitri tended to gently nudge people toward synchronization. I wanted us to be able to align without external help. That’s why we used a building on the Ground, outside of Savitri's body.
-
-
-
+"You've got the potential to become a proper little nerd too, *pāppā*. I know that for fact."
