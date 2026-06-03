@@ -1867,7 +1867,9 @@ The drone paused briefly.
 The drone recited:
 
 *Kaṭṭumāṉat tūci mitakkum* 
+
 *putitāy piṟakkum kālai oḷiyil* 
+
 *kaṭṭaiyaik kaṉavu kāṇum kāṉkirīṭ*
 
 "That's quite beautiful, LHS-475. You have my gratitude."
