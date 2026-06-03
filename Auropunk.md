@@ -1550,7 +1550,7 @@ I walked toward the end of the room.
 
 The Language Lab never needed air conditioning. It breathes on its own.
 
-Particles of Manifested matter are now numerous enough for me to follow the movements of that breath. I can’t see it, but I can *experience* it. The building breathes through a series of shafts placed at different points along its structure. Ducts run deep below the soil, then rise like towers into the sky. Cool air from the underground, hot air above the roof. You do the math. Through the simple laws of thermodynamics, the warmer air rises, pulling colder air up from below, which then spreads through the building via openings carved into the shafts. A slow, continuous path — just enough imbalance to keep everything moving.
+Particles of Manifested matter are now numerous enough for me to follow the movements of that breath. I can’t see it, but I can *see* it. The building breathes through a series of shafts placed at different points along its structure. Ducts run deep below the soil, then rise like towers into the sky. Cool air from the underground, hot air above the roof. You do the math. Through the simple laws of thermodynamics, the warmer air rises, pulling colder air up from below, which then spreads through the building via openings carved into the shafts. A slow, continuous path — just enough imbalance to keep everything moving.
 
 Did our ancestors figure it out by watching termites, or did they do the maths by themselves? Will synchronisation make us better architects, or are our maths already good enough? Maybe we could create some sort of feedback loop where—
 
@@ -1651,3 +1651,308 @@ I smile.
 I stifle a laugh — *it’s funny because it’s true*. She’s reckless.
 
 "You've got the potential to become a proper little nerd too, *pāppā*. I know that for fact."
+
+Some grasp it almost intuitively. For others, it takes years of training. Everyone can reach it — at least among the Children of Auroville. For people from the Outside, I don’t know. There have been cases of visitors sensing the Manifestation instinctively, and for most of them it didn’t go well. Imagine parts of a cushion on the sofa you’re sitting on suddenly greeting you with no warning. I suspect this might be one of the reasons behind the high turnover on the second level of the Lines. People come in seeking transformation. The furniture says hello. They leave.
+
+That’s when my earring vibrates softly against my skin, signalling an incoming call from Ganeshu.
+
+"Hello ?"
+
+"Truthy truth. I'm in front of the old CRS can you come over ?"
+
+"I'm actually in a session, I won't be long though, give me 45 minutes."
+
+Klaudia interrupts : "it's alright, *āciriyar*. I need to concentrate now anyway."
+
+By the time I reach the old CSR through the Crown Road, dusk has begun settling over the city.
+
+Far beyond the Lines, one could still make out the vaguely unsettling silhouettes of the containment pillars — thin giants the size of our Lines, their red flickering formed by indecipherable glyphs crawling slowly across their surface.
+
+Ganeshu is waiting in front of the entrance.
+
+“Thanks for coming. I don’t have complete access outside the Lines and I didn’t want to push.”
+
+“No problem. I owe you one already.”
+
+I pause.
+
+“I still can’t thank you enough for advocating for me before the Committee.”
+
+“Meh, don’t worry about it. They were just waiting for an excuse to convince themselves to give you your access back. You even got a unanimous vote from the Triumvirate.”
+
+“Wow.”
+
+“They need you too much. Things are unfolding fast, and they can’t afford to lose someone with your level of alignment with the Manifestation. Just when I was getting used to Mr. Govekar.”
+
+“I’ll put him on the shelf. You never know — he might come in handy again.”
+
+Ganeshu snorts.
+
+“Oh, the things you say.”
+
+“Huh?”
+
+“Nothing. Just try not to make a fuss by [REDACTED], alright?”
+
+“Yes, sir.”
+
+We begin walking toward the entrance.
+
+“So what’s with the requisitioning of all the old Ground buildings? The Language Lab… and now the former CSR?”
+
+“I need buildings outside Savitri’s body. In the Lines, she tends to gently nudge people toward synchronization, and I want them to learn alignment without external help. Same thing with the CSR — we’re relocating some of the research labs there to avoid possible interference from her.”
+
+I glance toward the towers of the Lines.
+
+“The timing is convenient. If I understand correctly, interior work is about to begin inside the Lines?”
+
+“Yes. Speaking of the God in the shell… Savitri has issued specific retrofit instructions. Substrates and infrastructural networks are being rerouted into patterns we’re still trying to understand. If I remember correctly, several labs are going to have to relocate — especially in the Line of Felicity.”
+
+“You managing alright?”
+
+Ganeshu exhales slowly.
+
+“It’s not really the technical side that worries me. It’s the human side. The work is going to affect residential sectors, and we’ll have to modify parts of the urban and architectural layout. Some communities might even need partial relocation.”
+
+He shrugs.
+
+“So everyone complains. The French complain last. And once they’re done complaining, people go along with it. Everyone knows what’s at stake.”
+
+I smile despite myself. If there is one person capable of navigating and soothing this kind of tension, it’s Ganeshu.
+
+“Good luck with that, then. Everyone likes you. I’m sure it’ll go smoothly.”
+
+A brief silence settles between us.
+
+Do I have to start the conversation myself?
+
+“You wanted me to take a look at the construction work?”
+
+“Actually… it’s about the little incursion M01ra and I had the other night. At the Library of Evolution.”
+
+“I almost forgot. Sorry. I’m so busy lately. Was the data useful?”
+
+“Hm. Yes. That was… very strange, actually.”
+
+He hesitates.
+
+“A bit Jurassic Park meets Evangelion.”
+
+“You’re lucky you made me watch those. So — where are the robot dinosaurs?”
+
+“I was thinking more of a creepy abandoned laboratory. And instead of dinosaurs… there was Savitri.”
+
+I just wanted a normal life.
+
+“…Context?”
+
+“We’re not entirely sure why or when, but some kind of gallery was built to present the genesis of Savitri, and there were—”
+
+“Sweet Mother, there were naked clones of me everywhere in vat tubes!”
+
+“What?! No! It was— okay, now it sounds silly when I say it, but it was genuinely creepy. You’d agree if you’d been there.”
+
+“If there aren’t naked clones of the Fifty Makers floating in vats, I’m not impressed. So, nothing there?”
+
+“Nothing of importance, it seems. But the gallery had been dug out further, down to a subterranean access point leading to the old CSR. The door was locked.”
+
+Spooky.
+
+“That won’t be a problem for long. Want to take another look yourselves? If the two of you combined couldn’t hack a door, this might be a tough cookie.”
+
+“Let’s just say M01ra left early.”
+
+“Security issues?”
+
+“…”
+
+“…”
+
+“She sort of rage-quit when she saw a picture of the Fifty Makers before the Creation.”
+
+A strange sensation tightens briefly somewhere in my chest.
+
+“…Can I see it?”
+
+Reluctantly, Ganeshu rummages through his terminal and hands me the image.
+
+Ah.
+
+"Yes. I think I still have the same picture somewhere in my cell."
+
+Ganeshu is looking at me strangely — I think. What am I doing wrong? And M01ra, defeated by a photograph? Is she that repressed? That misaligned with our past?
+
+“Do you find it strange that I keep this picture?”
+
+“I didn’t say that.”
+
+“Please. You know I’m terrible at this game.”
+
+“No, just— forget it. Should we look at the CSR blueprints?”
+
+I keep staring at the picture.
+
+“It’s like… she just looked at it and left?”
+
+Ganeshu sighs softly.
+
+“Yeah.”
+
+Silence settles between us.
+
+I hear the low infrastructural hum of the Lines somewhere above the city.
+
+“I do miss my brother, you know.”
+
+“…Why do you think I—”
+
+“It’s not because I keep a picture of the Fifty before the Birth at home, or because I’m supposedly oh-so-spiritual, or because I’m connected to Savitri, that I don’t hurt too.”
+
+He already knows all this, but suddenly I need to say it out loud.
+
+“M01ra resents me because of my… particular relationship with Savitri. She thinks — no, she feels — that it’s disrespectful, considering that Savitri’s birth supposedly killed my brother.”
+
+I pause.
+
+“Or that Valérian is somehow still inside Her. And that I’m the only one capable of reaching him.”
+
+Another silence.
+
+“But my brother is *not* in Savitri. During the theogenesis, all the bonds that held our aggregates together were undone. I recognise him in Savitri about as much as I can recognise his karma anywhere else in Auroville.”
+
+The words sound strangely brittle once spoken aloud.
+
+“And I *do* miss him. M01ra doesn’t have a monopoly on sorrow. The personality cult that formed around Valérian while he was still alive wasn’t healthy, and after his death it only became worse.”
+
+I look away from the picture.
+
+“She’s stuck in anger. And it's probably why she's repressing her ability to align”
+
+But we both know all too well the main reason she's – probably– still angry at me. It's because I left after the experiment. Because she lost both brothers at the same moment. Which is why, through some humanly stupid guilt complex, I keep following her in all of her wacky endeavors.
+
+I sigh. This is not the time to start digging through those old worn-out themes again with my oldest friend.
+
+“Let’s go have a look at your spooky door, alright?” I say, summoning as much benevolence as I can muster.
+
+Somewhere in the distance, a faint coherence locks into place.
+
+----
+
+Although most of Auroville's research activity had long since been transferred into the Lines — more for the hype than for any real practical advantage, honestly — the old CSR had retained a modest but continuous activity centred around low-tech and life-tech research, and still produced the occasional notable invention.
+
+The latest projects involved engineering construction materials made from mycelium, earth, and biological substrates. The long-term goal was to eventually *grow* our buildings: replace the concrete skeletons of the Lines with fungi, wood, and a generous amount of love.
+
+Around twenty humans and drones were busy inside the vast central hall. As one of the drones passed nearby, I called out to it.
+
+I would never say this aloud for fear of sounding specist, but to me they all looked the same. Still, I could occasionally recognize some of them through their psychic. This one felt slightly more pink than the others' usual red. I liked this little one – an old Mitra unit. Curious, meticulous in its work, and afflicted with a strange tendency to propose haikus at inappropriate moments. Some children had playfully tucked frangipani blossoms onto its rear chassis. The unit had evidently made no effort to remove them.
+
+That series liked naming itself after stars. What was this one called again?
+
+Ah, yes.
+
+"Greetings, LHS-475. Can you give me a heads-up on the current work?"
+
+"Greetings, Child Keshav-63 of Aspiration. Work began fifty-six hours ago and is currently completed at approximately seventeen percent. Crew morale remains good and no incident has been reported so far."
+
+The drone paused briefly.
+
+"Implementation of the electromagnetic shielding is causing difficulties in several rooms, and we have taken certain liberties in order to complete it. You may find the relevant modifications in this file."
+
+"I'll review the file and get back to you soon. Keep up the good work."
+
+"Would you like to hear a haiku? I composed it this morning."
+
+"That would be lovely."
+
+The drone recited:
+
+*Kaṭṭumāṉat tūci mitakkum* 
+*putitāy piṟakkum kālai oḷiyil* 
+*kaṭṭaiyaik kaṉavu kāṇum kāṉkirīṭ*
+
+"That's quite beautiful, LHS-475. You have my gratitude."
+
+The drone nodded.
+
+"At Her service."
+
+"To His design." I answered with the customary formulae.
+
+We took a few steps toward the elevators before it occurred to me that, while the unit was here, we might as well ask directly for directions.
+
+"LHS-475?"
+
+"Yes?"
+
+"We're looking for the location of a door leading to a subterranean accessway connected to the Library of Biological Evolution."
+
+I glanced toward Ganeshu.
+
+"Coordinates?"
+
+Ganeshu projected them into the air.
+
+The drone observed the customary two-second courtesy pause before answering.
+
+"You are most likely referring to the final chamber of the abandoned exhibition project. I must admit some surprise concerning your question, but—"
+
+Of course.
+
+"The last room was the theogenetic testing facility.", I interrupted.
+
+"Yes, Maker Keshav. Three years after the theogenesis, the Committee unanimously voted to designate the Chamber as a site of Ontological Significance and seal it."
+
+I remembered the smell of the Chamber, fresh raw plastic and magnolia. The smell of something trying very hard to become alive. Elating and somehow soothing at the same time.
+
+"Hm. Any recorded activity inside the Chamber since then?"
+
+A red LED flickered briefly across LHS-475's chassis before it answered.
+
+"This information is regulated under the Auroville Tripartite Act and falls under the authority of the Foundation — specifically through the Stewards of L'Avenir — such as Steward Ganeshu-34 of Equanimity, presently here."
+
+"Wait, *I* have access?" exclaimed Ganeshu.
+
+"Yes, Steward. Like most facilities on the Ground, the CSR remains under the responsibility of the Residents' Assembly, but several localities are directly administered by the Foundation."
+
+I raised an eyebrow.
+
+"You don't know your entire kingdom, 'Nesh?"
+
+Ganeshu shot me an irritated look.
+
+"Most places on the Ground under my stewardship are symbolic."
+
+"This is admittedly a very symbolic place," I replied with a laugh.
+
+Ganeshu turned back toward the Mitra unit.
+
+"Can we enter the Chamber?"
+
+"No. The unsealing of the Chamber would require the motivated request of two additional Stewards and authorization from the Secretary. However, as previously stated, you possess access rights to the logs pertaining to this locality."
+
+"So?"
+
+Ganeshu looked at me.
+
+"I suppose this is the part where I grant you permission to access them."
+
+The drone inclined its body slightly.
+
+“No activity has been detected on electromagnetic, visual, thermal or sonic wavelengths since the sealing, aside from baseline environmental noise.”
+
+“Hm. Savitri ?”
+
+"Savitri hasn't been present in the building since its embodiment in the Crown Road."
+
+“Hm.”
+
+"Hm."
+
+The drone broke the silence.
+
+“I assume you would now like to examine the underlying data more closely for reasons that remain unknown to me, and which I would naturally be unable to disclose to anyone.”
+
+Ganeshu and I exchange a glance.
+
+“Let’s go to my office,” I said.
+
