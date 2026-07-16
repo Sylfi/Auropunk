@@ -1629,8 +1629,6 @@ A pause.
 
 “But the membrane also keeps it connected to the Great Stuff. It decides what comes in and what comes out. Proteins embedded between the lipids do that. Some are little valves. Some are pumps. Some detect things. Nothing really controls them. They react automatically through simple chemical and electrical mechanisms…”
 
-Truthfully? That was almost impressive.
-
 “That’s good. You know it — and I’m pretty sure you understand it too. But can you *see* it?”
 
 Klaudia remains motionless, eyes half-closed.
