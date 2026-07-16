@@ -10,6 +10,8 @@
 - [05 — Goodness](#chapter-5--goodness)
 - [06 — Perseverance](#chapter-6--perseverance)
 - [07 — Gratitude](#chapter-7--gratitude)
+- [08 – Courage](#chapter-8--courage)
+- [09 – Humility](#chapter-9--humility)
 
 ## Introduction
 
@@ -1551,77 +1553,792 @@ I walked toward the end of the room.
 
 ## Chapter 7 : Gratitude
 
-You’re meditating, and you decide to focus on a sound. Let’s say the chirping of a bird. You might reach that stage where there seems to be no difference at all between your consciousness and the chirp. Your awareness becomes its object, and somehow its subject. You feel as though you’ve crossed the illusion of identities, touched interdependence. Textbook mindfulness. 101. Congrats.
+The Language Lab never needed air conditioning. It breathes on its own.
 
-Except you don’t. Your brain tricks you into thinking the boundary has disappeared. Something about mirror neurons and predictive processing and such. You don’t actually sync with the other system-form, you don’t access another plane. The feeling is produced, contained. A lie you tell yourself. Sorry.
+Particles of Manifested matter are now numerous enough for me to follow the movements of that breath. I can’t see it, but I can *see* it. The building breathes through a series of shafts placed at different points along its structure. Ducts run deep below the soil, then rise like towers into the sky. Cool air from the underground, hot air above the roof. You do the math. Through the simple laws of thermodynamics, the warmer air rises, pulling colder air up from below, which then spreads through the building via openings carved into the shafts. A slow, continuous path — just enough imbalance to keep everything moving.
 
-The silver lining is that it’s a lie pointing toward something true. What the East grasped through experience thousands of years ago, and the West began to formalize only recently, is that the difference between you and the sound is not absolute opposition, but a relative difference in connectivity. Between the complex system that you are, the system that the sound is, and the larger system that contains both. Interdependence. Non-identity. Complex systems theory. The illusion in your head leads you to a truth — a big one. A chemico-neurological fiction that gestures toward an ontological condition. Is it still a lie, then? Matter of semantics. Doesn’t matter.
+Did our ancestors figure it out by watching termites, or did they do the maths by themselves? Will synchronisation make us better architects, or are our maths already good enough? Maybe we could create some sort of feedback loop where—
 
-The Manifestation is something else. Pratītyasamutpāda is not merely intuited here as an illusion pointing to truth. It is experienced — and it functions. I am actually connecting, through that web of interdependence — probably — to system-beings made of manifested matter. I still can’t understand how it is possible for me — for us — to feel what it is to be a shard of wood, or an amoeba. There has to be a rational explanation. Otherwise I might as well throw myself into the Ganges. Aurobindo would say that everything unfolds from the same origin — from inorganic matter upward, through the evolutionary tree — and that something in us still carries that continuity. Call it memory, call it structure. But then, does it mean that it becomes harder — or even impossible — to synchronize with life-forms further away from us in that tree? Archaea, perhaps. Or cephalopods. Or—
+“*Anna*, you’re lost in the Manifestation again!”
 
-“Anna, you’re drifting again and thinking of the [tenants et aboutissants] of the evolution and augmentation of the Manifestation.”
+Klaudia looks at me with her big blue eyes and pinched lips. I’m not even surprised she knows. She reads cues almost as well as I do, and she’s still in first grade. Or maybe I just look absent-minded. I try to read her expression, but I can’t tell whether that grumpy face is genuine or if she’s just playing with me.
 
-Klaudia looked at me with her big blue eyes and pinched lips. I wasn’t even surprised. She reads cues almost as well as I do, and she’s still in kindergarten.
+“Sorry, Klaudia. So, how are we doing with the paramecium?”
 
-“Sorry, Klaudia. So, how are we doing with the exercise?”
+“You know already,” she says, with a hint of reproach. “I still can’t pinpoint where it is.”
 
-“You know already,” she said, with a hint of reproach. “I still can’t find the paramecium.”
-
-In front of her, a shallow aquarium. Tap water, into which I had introduced a small group of paramecia. One of them was manifested at 67%. Not ideal, but it was the best I could find for something large enough to make the exercise relatively easy.
+In front of her sits a shallow aquarium filled with tap water, into which I have introduced a small group of paramecia. One of them is Manifested at 67%. Not ideal, but it’s the best I could find for something large enough to make the exercise relatively easy.
 
 “What seems to be the problem?”
 
-“I can feel that there is something special — that vibration you told me about. But I can’t identify it precisely.”
+“I can feel that there is something special — that vibration you told me about. But I can’t tell exactly where it is.”
 
-“Okay. You can’t just use your psychic to find it. You need your higher mental to guide your psychic. Understanding the system-being will allow you to make sense of the Manifestation field you’re sensing. What can you tell me about paramecium?”
+“This is a great start. You’re already able to access your subtle physical and use it. With training, you’ll be able to locate it more precisely. But to recognize it — and eventually experience it — you’ll need your mental. How would you describe a paramecium?”
 
-Klaudia answered in an academic, almost automatic manner.
+Klaudia begins answering in a half-academic tone. I’m now fairly certain she’s taking the piss. If all the little ones start developing sarcasm this early, I swear I’ll vanish into some obscure Villager unit and live the rest of my life in dignified silence.
 
-“Paramecium is a unicellular eukaryote belonging to the genus Paramecium, within the phylum Ciliophora. It is commonly found in freshwater environments where it feeds on bacteria. Individual organisms are typically between 50 and 300 micrometers in length. It is covered with cilia that beat in coordinated patterns, allowing it to move and direct itself toward nutrients.They reproduce asexually by binary fission. It has no central control, yet its actions appear organized and adaptive. It responds to its environment as if it could interpret it. The coherence is not located anywhere in particular… but it is still there."
+“It’s a tiny unicellular organism, sort of oval-shaped. Inside there’s lots of stuff like cytoplasm, a nucleus, vacuoles, organelles… It moves using thousands of little cilia all around its body, feeds on bacteria and reproduces by splitting itself in two. Which is quite funny.”
 
-“Good. Now, what did we say about stuff in general?”
+“There’s a lot of stuff inside it, right?”
 
-“Stuff should not be understood as having intrinsic qualities, but as a system whose components are more strongly connected to each other than to what is outside of it. What defines the system is not a fixed boundary, but a gradient in the density and strength of interactions. The distinction between stuff and non-stuff is therefore not absolute. It emerges from a relative difference in connectivity. Components within the system exchange more information, energy, or matter with each other than with the outside. The boundary is not a barrier, but a region where this difference becomes significant, and the stuff almost always exchanges information or matter or energy to the non-stuff . The greater the disparity in interaction density, the more the system behaves as a coherent, distinct entity. If the gradient collapses, the system ceases to exist as such.”
+“Yes.”
 
-“So, how can we use this understanding for our current problem?”
+“And there’s a lot of stuff inside other stuff too, right?”
 
-Klaudia’s frown deepened. Then her expression shifted — a flicker of sudden clarity.
+“…Yes,” Klaudia replies, making only the faintest effort to hide her impatience.
 
-“I should focus on the boundary between the stuff and the non-stuff if I want to locate it. It’s the membrane of the paramecium, obviously… My psychic will locate it if I understand the parameters of its boundaries"
+“The Manifestation in this paramecium isn’t complete enough for your subtle being to recognize the organism as a whole. So if you try to attune to the complete model, you won’t find it. Could there be a simpler way to identify it? Not through the entirety of the system, but through a smaller part?”
 
-“Yes, you need to understand from the plane of your outer mental to your inner mental. Now, what do we know about the paramecium’s membrane?”
+Pause.
 
-“The membrane of the paramecium is a selectively permeable lipid bilayer. It defines the limits of the organism by regulating the exchange of ions, nutrients, and waste products with the environment. It maintains electrochemical gradients across its surface, which are necessary for signaling and coordinated movement."
+“Can you remind me how we defined ‘stuff’ in our last ontology class?”
 
-"Great, you know it. Now, can you *understand* it ? Picture it into you mind : atoms concatenated to form lipids, lipids forming into layers, molecules letting matter in and out the system, permitting some to come and leave ; information exchange from molecules to molecules that shapes their behaviour.."
+Klaudia suppresses a small snort. I don’t know why, but everyone in that class finds the word *ontology* endlessly funny.
 
-"But Anna, this will take forever! If I have to do that for every manifested form, I’ll never have time to do anything else!”
+Then comes the same academic tone again.
 
-“Once you understand enough, experience will allow you to see directly with your inmost mental. And then you’ll be able to focus your psychic like this—” I snapped my fingers.
+“Any given stuff is made up of other stuff. The reason we, as observers, can identify it as stuff is because its components are connected to one another more strongly than to the rest of the Great Stuff that is everything. They exchange more information, energy, and matter with each other than with what lies outside them. That is how a system emerges — something we can distinguish as both part of, and separate from, the Great Stuff.”
 
-Some will get it almost instinctively. For others it takes years of training. Everyone can reach it — at least among the Children of Auroville. For people from the Outside, I don’t know. There have been cases of visitors who sensed it instinctively — something raw, almost animal — and for most of them it didn’t go well. Imagine part of a cushion on the sofa you’re sitting on suddenly greeting you with no warning. I suspect this might be one of the reasons behind the high turnover on the second level of the Lines. People come in seeking transformation. The furniture says hello. They leave.
+Klaudia is finally beginning to focus. We’re getting somewhere.
 
-“In some cases you might be able to use your inmost vital instead, but that will be for later.”
+“Stuff that has become very complex — like living stuff — needs a physical boundary between itself and the rest of the Great Stuff in order to remain functional, meaning: to continue existing and reproduce itself. This boundary has two functions. One, it keeps the system’s components together so they don’t simply dissolve back into the Great Stuff. Two, it allows certain things from the Great Stuff to pass through — energy, matter, information. Otherwise, the stuff would cease to be.”
 
-The hint of discouragement on Klaudia’s face was quickly swept away by one of pure resolution. This one will never give up. Ego can be very useful for learning.
+Her expression shifts.
 
-“I will need to concentrate for some time now,” she said, staring straight ahead. “Please don’t disturb me.”
+She’s getting it.
 
-That was the exact moment Ganeshu chose to poke his head through the doorway.
+“That’s it! I need to focus on the boundary between the stuff and the Great Stuff first. The membrane of the paramecium.”
 
-“Hola Kesh, just to tell you that I’m here.”
+“What do we know about it?”
 
-Oops. I had lost track of time with Klaudia. She stared at ’Nesh with wide, unblinking eyes. You don’t often see bodies like his around here. She hesitated between gasping at this impossibility and saying something witty, as some of the cool adults would.
+Klaudia’s eyes narrow halfway shut. She’s beginning to enter a trance.
 
-Ganeshu pressed on: “I can come back if you two are busy.”
+Now we’re getting serious.
 
-“No, it’s perfect — Klaudia has to concentrate alone anyway.”
+Go on. Show me memory implants have become obsolete.
 
-“Here’s a lipid layer!” shouted Klaudia, pointing straight at Ganeshu.
+“…The membrane of the paramecium is soft. Mushy. Only a few molecules thick. It’s organised into just two layers. The molecules are lipids — fats. Carbon, hydrogen, oxygen… phosphorus, nitrogen…”
 
-Kudos to Klaudia.
+“No need to zoom in that far. What does it do?”
 
-It was noticeably cooler inside the building than outside. The old language lab had been — at my request, among others — repurposed into a training platform for research on the Manifestation and synchronization practice. Call it the Manifestation Lab, for the sake of history. In the Lines, Savitri tends to gently nudge people toward synchronization. That’s why we used a building on the Ground.
+Klaudia’s brow tightens slightly.
+
+“The molecules have two sides. The head likes water. The tail wants to escape from it. So in the double layer, the heads face outward and inward, while the tails hide in the middle. The tails that fear water press against each other and seal the organism, keeping it separate from the Great Stuff.”
+
+A pause.
+
+“But the membrane also keeps it connected to the Great Stuff. It decides what comes in and what comes out. Proteins embedded between the lipids do that. Some are little valves. Some are pumps. Some detect things. Nothing really controls them. They react automatically through simple chemical and electrical mechanisms…”
+
+Truthfully? That was almost impressive.
+
+“That’s good. You know it — and I’m pretty sure you understand it too. But can you *see* it?”
+
+Klaudia remains motionless, eyes half-closed.
+
+“The vibration you’re physically sensing, you’ll eventually learn to pinpoint through recognition. Your mental identifies the process. Then your vital learns its pattern and remembers it.”
+
+Klaudia still hasn’t emerged from her trance, yet she answers me directly, staring vaguely at the wall.
+
+“But Anna, this will take forever! If I have to do that for every Manifested form, I’ll never have time to do anything else!”
+
+“Once your vital remembers the pattern, you’ll be able to synchronize with it like this—”
+
+I snap my fingers.
+
+“Yes, at first it feels like you’ll have to learn everything about everything. But once you recognize the vital pattern of atoms, and understand how they assemble into molecules, you’ll begin recognizing the vital pattern of the molecules too. It’s a symphony. Every layer teaches you the next one.”
+
+I smile.
+
+“And thankfully, it gets easier with practice.”
+
+“No, it's easy for *you* because you’re a *big nerd*, *anna*!”
+
+I stifle a laugh — *it’s funny because it’s true*. She’s reckless.
+
+"You've got the potential to become a proper little nerd too, *pāppā*. I know that for fact."
+
+Some grasp it almost intuitively. For others, it takes years of training. Everyone can reach it — at least among the Children of Auroville. For people from the Outside, I don’t know. There have been cases of visitors sensing the Manifestation instinctively, and for most of them it didn’t go well. Imagine parts of a cushion on the sofa you’re sitting on suddenly greeting you with no warning. I suspect this might be one of the reasons behind the high turnover on the second level of the Lines. People come in seeking transformation. The furniture says hello. They leave.
+
+That’s when my earring vibrates softly against my skin, signalling an incoming call from Ganeshu.
+
+"Hello ?"
+
+"Truthy truth. I'm in front of the old CRS can you come over ?"
+
+"I'm actually in a session, I won't be long though, give me 45 minutes."
+
+Klaudia interrupts : "it's alright, *āciriyar*. I need to concentrate now anyway."
+
+By the time I reach the old CSR through the Crown Road, dusk has begun settling over the city.
+
+Far beyond the Lines, one could still make out the vaguely unsettling silhouettes of the containment pillars — thin giants the size of our Lines, their red flickering formed by indecipherable glyphs crawling slowly across their surface.
+
+Ganeshu is waiting in front of the entrance.
+
+“Thanks for coming. I don’t have complete access outside the Lines and I didn’t want to push.”
+
+“No problem. I owe you one already.”
+
+I pause.
+
+“I still can’t thank you enough for advocating for me before the Committee.”
+
+“Meh, don’t worry about it. They were just waiting for an excuse to convince themselves to give you your access back. You even got a unanimous vote from the Triumvirate.”
+
+“Wow.”
+
+“They need you too much. Things are unfolding fast, and they can’t afford to lose someone with your level of alignment with the Manifestation. Just when I was getting used to Mr. Govekar.”
+
+“I’ll put him on the shelf. You never know — he might come in handy again.”
+
+Ganeshu snorts.
+
+“Oh, the things you say.”
+
+“Huh?”
+
+“Nothing. Just try not to make a fuss by [REDACTED], alright?”
+
+“Yes, sir.”
+
+We begin walking toward the entrance.
+
+“So what’s with the requisitioning of all the old Ground buildings? The Language Lab… and now the former CSR?”
+
+“I need buildings outside Savitri’s body. In the Lines, she tends to gently nudge people toward synchronization, and I want them to learn alignment without external help. Same thing with the CSR — we’re relocating some of the research labs there to avoid possible interference from her.”
+
+I glance toward the towers of the Lines.
+
+“The timing is convenient. If I understand correctly, interior work is about to begin inside the Lines?”
+
+“Yes. Speaking of the God in the shell… Savitri has issued specific retrofit instructions. Substrates and infrastructural networks are being rerouted into patterns we’re still trying to understand. If I remember correctly, several labs are going to have to relocate — especially in the Line of Felicity.”
+
+“You managing alright?”
+
+Ganeshu exhales slowly.
+
+“It’s not really the technical side that worries me. It’s the human side. The work is going to affect residential sectors, and we’ll have to modify parts of the urban and architectural layout. Some communities might even need partial relocation.”
+
+He shrugs.
+
+“So everyone complains. The French complain last. And once they’re done complaining, people go along with it. Everyone knows what’s at stake.”
+
+I smile despite myself. If there is one person capable of navigating and soothing this kind of tension, it’s Ganeshu.
+
+“Good luck with that, then. Everyone likes you. I’m sure it’ll go smoothly.”
+
+A brief silence settles between us.
+
+Do I have to start the conversation myself?
+
+“You wanted me to take a look at the construction work?”
+
+“Actually… it’s about the little incursion M01ra and I had the other night. At the Library of Evolution.”
+
+“I almost forgot. Sorry. I’m so busy lately. Was the data useful?”
+
+“Hm. Yes. That was… very strange, actually.”
+
+He hesitates.
+
+“A bit Jurassic Park meets Evangelion.”
+
+“You’re lucky you made me watch those. So — where are the robot dinosaurs?”
+
+“I was thinking more of a creepy abandoned laboratory. And instead of dinosaurs… there was Savitri.”
+
+I just wanted a normal life.
+
+“…Context?”
+
+“We’re not entirely sure why or when, but some kind of gallery was built to present the genesis of Savitri, and there were—”
+
+“Sweet Mother, there were naked clones of me everywhere in vat tubes!”
+
+“What?! No! It was— okay, now it sounds silly when I say it, but it was genuinely creepy. You’d agree if you’d been there.”
+
+“If there aren’t naked clones of the Fifty Makers floating in vats, I’m not impressed. So, nothing there?”
+
+“Nothing of importance, it seems. But the gallery had been dug out further, down to a subterranean access point leading to the old CSR. The door was locked.”
+
+Spooky.
+
+“That won’t be a problem for long. Want to take another look yourselves? If the two of you combined couldn’t hack a door, this might be a tough cookie.”
+
+“Let’s just say M01ra left early.”
+
+“Security issues?”
+
+“…”
+
+“…”
+
+“She sort of rage-quit when she saw a picture of the Fifty Makers before the Creation.”
+
+A strange sensation tightens briefly somewhere in my chest.
+
+“…Can I see it?”
+
+Reluctantly, Ganeshu rummages through his terminal and hands me the image.
+
+Ah.
+
+"Yes. I think I still have the same picture somewhere in my cell."
+
+Ganeshu is looking at me strangely — I think. What am I doing wrong? And M01ra, defeated by a photograph? Is she that repressed? That misaligned with our past?
+
+“Do you find it strange that I keep this picture?”
+
+“I didn’t say that.”
+
+“Please. You know I’m terrible at this game.”
+
+“No, just— forget it. Should we look at the CSR blueprints?”
+
+I keep staring at the picture.
+
+“It’s like… she just looked at it and left?”
+
+Ganeshu sighs softly.
+
+“Yeah.”
+
+Silence settles between us.
+
+I hear the low infrastructural hum of the Lines somewhere above the city.
+
+“I do miss my brother, you know.”
+
+“…Why do you think I—”
+
+“It’s not because I keep a picture of the Fifty before the Birth at home, or because I’m supposedly oh-so-spiritual, or because I’m connected to Savitri, that I don’t hurt too.”
+
+He already knows all this, but suddenly I need to say it out loud.
+
+“M01ra resents me because of my… particular relationship with Savitri. She thinks — no, she feels — that it’s disrespectful, considering that Savitri’s birth supposedly killed my brother.”
+
+I pause.
+
+“Or that Valérian is somehow still inside Her. And that I’m the only one capable of reaching him.”
+
+Another silence.
+
+“But my brother is *not* in Savitri. During the theogenesis, all the bonds that held our aggregates together were undone. I recognise him in Savitri about as much as I can recognise his karma anywhere else in Auroville.”
+
+The words sound strangely brittle once spoken aloud.
+
+“And I *do* miss him. M01ra doesn’t have a monopoly on sorrow. The personality cult that formed around Valérian while he was still alive wasn’t healthy, and after his death it only became worse.”
+
+I look away from the picture.
+
+“She’s stuck in anger. And it's probably why she's repressing her ability to align”
+
+But we both know all too well the main reason she's – probably– still angry at me. It's because I left after the experiment. Because she lost both brothers at the same moment. Which is why, through some humanly stupid guilt complex, I keep following her in all of her wacky endeavors.
+
+I sigh. This is not the time to start digging through those old worn-out themes again with my oldest friend.
+
+“Let’s go have a look at your spooky door, alright?” I say, summoning as much benevolence as I can muster.
+
+Somewhere in the distance, a faint coherence locks into place.
+
+----
+
+Although most of Auroville's research activity had long since been transferred into the Lines — more for the hype than for any real practical advantage, honestly — the old CSR had retained a modest but continuous activity centred around low-tech and life-tech research, and still produced the occasional notable invention.
+
+The latest projects involved engineering construction materials made from mycelium, earth, and biological substrates. The long-term goal was to eventually *grow* our buildings: replace the concrete skeletons of the Lines with fungi, wood, and a generous amount of love.
+
+Around twenty humans and drones were busy inside the vast central hall. As one of the drones passed nearby, I called out to it.
+
+I would never say this aloud for fear of sounding specist, but to me they all looked the same. Still, I could occasionally recognize some of them through their psychic. This one felt slightly more pink than the others' usual red. I liked this little one – an old Mitra unit. Curious, meticulous in its work, and afflicted with a strange tendency to propose haikus at inappropriate moments. Some children had playfully tucked frangipani blossoms onto its rear chassis. The unit had evidently made no effort to remove them.
+
+That series liked naming itself after stars. What was this one called again?
+
+Ah, yes.
+
+"Greetings, LHS-475. Can you give me a heads-up on the current work?"
+
+"Greetings, Child Keshav-63 of Aspiration. Work began fifty-six hours ago and is currently completed at approximately seventeen percent. Crew morale remains good and no incident has been reported so far."
+
+The drone paused briefly.
+
+"Implementation of the electromagnetic shielding is causing difficulties in several rooms, and we have taken certain liberties in order to complete it. You may find the relevant modifications in this file."
+
+"I'll review the file and get back to you soon. Keep up the good work."
+
+"Would you like to hear a haiku? I composed it this morning."
+
+"That would be lovely."
+
+The drone recited:
+
+*Kaṭṭumāṉat tūci mitakkum* 
+*putitāy piṟakkum kālai oḷiyil* 
+*kaṭṭaiyaik kaṉavu kāṇum kāṉkirīṭ*
+
+"That's quite beautiful, LHS-475. You have my gratitude."
+
+The drone nodded.
+
+"At Her service."
+
+"To His design." I answered with the customary formulae.
+
+We took a few steps toward the elevators before it occurred to me that, while the unit was here, we might as well ask directly for directions.
+
+"LHS-475?"
+
+"Yes?"
+
+"We're looking for the location of a door leading to a subterranean accessway connected to the Library of Biological Evolution."
+
+I glanced toward Ganeshu.
+
+"Coordinates?"
+
+Ganeshu projected them into the air.
+
+The drone observed the customary two-second courtesy pause before answering.
+
+"You are most likely referring to the final chamber of the abandoned exhibition project. I must admit some surprise concerning your question, but—"
+
+Of course.
+
+"The last room was the theogenetic testing facility.", I interrupted.
+
+"Yes, Maker Keshav. Three years after the theogenesis, the Committee unanimously voted to designate the Chamber as a site of Ontological Significance and seal it."
+
+I remembered the smell of the Chamber, fresh raw plastic and magnolia. The smell of something trying very hard to become alive. Elating and somehow soothing at the same time.
+
+"Hm. Any recorded activity inside the Chamber since then?"
+
+A red LED flickered briefly across LHS-475's chassis before it answered.
+
+"This information is regulated under the Auroville Tripartite Act and falls under the authority of the Foundation — specifically through the Stewards of L'Avenir — such as Steward Ganeshu-34 of Equanimity, presently here."
+
+"Wait, *I* have access?" exclaimed Ganeshu.
+
+"Yes, Steward. Like most facilities on the Ground, the CSR remains under the responsibility of the Residents' Assembly, but several localities are directly administered by the Foundation."
+
+I raised an eyebrow.
+
+"You don't know your entire kingdom, 'Nesh?"
+
+Ganeshu shot me an irritated look.
+
+"Most places on the Ground under my stewardship are symbolic."
+
+"This is admittedly a very symbolic place," I replied with a laugh.
+
+Ganeshu turned back toward the Mitra unit.
+
+"Can we enter the Chamber?"
+
+"No. The unsealing of the Chamber would require the motivated request of two additional Stewards and authorization from the Secretary. However, as previously stated, you possess access rights to the logs pertaining to this locality."
+
+"So?"
+
+Ganeshu looked at me.
+
+"I suppose this is the part where I grant you permission to access them."
+
+The drone inclined its body slightly.
+
+“No activity has been detected on electromagnetic, visual, thermal or sonic wavelengths since the sealing, aside from baseline environmental noise.”
+
+“Hm. Savitri ?”
+
+"Savitri hasn't been present in the building since its embodiment in the Crown Road."
+
+“Hm.”
+
+"Hm."
+
+The drone broke the silence.
+
+“I assume you would now like to examine the underlying data more closely for reasons that remain unknown to me, and which I would naturally be unable to disclose to anyone.”
+
+Ganeshu and I exchange a glance.
+
+“Let’s go to my office,” I said.
+
+------------
+
+“Nothing more trivial than these recordings, then,” Ganeshu interrupted. “Kesh?”
+
+Drones communicated emotion to humans through a regulated palette of colours. LHS-475 displayed a soft sky blue denoting calmness and readiness.
+
+“Hm. Savitri generates a powerful electromagnetic field through the Crown Road…”  
+
+Which was why no ordinary communication device functioned properly on it, and why its immediate vicinity had become one of the most sought-after meditation sites in Auroville.
+
+“Yet the electromagnetic activity recorded in the Chamber seems perfectly ordinary. Doesn’t that strike you as odd?”
+
+“The readings are normalized against the surrounding environment,” replied the drone. “What you are observing is the differential between the Chamber and its immediate vicinity. Would you like access to the raw data?”
+
+I rubbed my eyes.
+
+“I need a break.”
+
+I leaned back in my chair and closed my eyes.
+
+"I naturally extend my psychic after sessions of intellectual work, seeking answers and solace from Mother and the City."
+
+Something was wrong. 
+
+“LHS-475, how far are we from the Chamber?”
+
+“The Chamber lies five levels below ground, approximately nineteen metres beneath the red earth.”
+
+Even in trace amounts, the Manifestation was everywhere. Even beyond Auroville. The farther one travelled, the fainter it became, but it never truly disappeared.
+
+“There’s nothing there.”
+
+Ganeshu glanced at me. 
+
+“Indeed?” 
+
+LHS-475 tilted its head slightly. A questioning violet spread across its chassis.
+
+“I think we need to go.”
+
+“Huh?”
+
+A faint red of attention flickered across the drone’s LEDs.
+
+I swallowed.
+
+“I don’t want to go.”
+
+“I’m somehow following you even less than before.”
+
+“We need to go. I really don’t want to.”
+
+“That Maker Keshav would experience discomfort regarding this location does not seem abnormal given his history with it, but—”
+
+“No. That's not it”
+
+I was already standing.
 
 
+## Chapter 8 : Courage
+
+“Can we access the Chamber directly?” Ganeshu asked LHS-475.
+
+“The elevatorservices levels down minus two, which remains in active use. The lower levels have been sealed, but the locks may be overridden under your authority, Steward.”
+
+Ganeshu glanced at me.
+
+“We make a dangerous team,” I observed.
+
+We took the service stairs beyond the second basement level. The doors below were Foundation-sealed — matte grey alloy framed with the characteristic ochre trim of Auroville’s early construction period. Ganeshu pressed his palm against the biometric panel. A pause. Then a brief alarm sound. Red LEDs flickered green as the locks disengaged with a sound like a long-held breath finally being released.
+
+“If it’s alright with you, we’ll use our own lights,” said Ganeshu. “I’d rather not have AuroSys paying more attention to this place than necessary.”
+
+The journey through the corridors of the Metaphysical Biology Laboratory, illuminated only by the drone’s lamps, unfolded in strange synchrony with my childhood memories of the place. Back then, the facility had been bathed in a uniform warm-white glow. The laboratory had been a subdivision of the Laboratory of Evolution — the first one that had attempted to approach the subject with anything resembling scientific seriousness. It had been built beneath the CSR to remain discreet. If memory serves, people spoke little of it in Auroville. Perhaps it had even been kept secret from the Outside.
+
+Geopolitical considerations had not exactly been among my priorities at the time.
+
+Whatever the case, the place had been built with pure functionality in mind: walls, floors and ceilings of raw aluminium panelling. At some point during the project, the machines began engraving the walls overnight without being instructed to do so, covering them with intricate curves and vast interlaced patterns resembling the trajectories of elementary particles colliding inside an accelerator. I remember the adults being deeply concerned by it. At the time, I never really understood why. Then again, the microwave had already been playing peek-a-boo with Valérian and I before our first birthday.
+
+The closer we came to the Chamber, the more my premonition solidified into certainty. The Manifestation was thinning out. Rapidly.
+
+I wondered whether Ganeshu could feel it too. After years spent reshaping and mastering his body, he had devoted comparatively little effort to his psychic development. In that regard, I hadn’t been a particularly good friend. I made a silent promise to push him in that direction in the future.
+
+The diminishing presence of the Manifestation provoked almost contradictory feelings in me. There was an oppression to it — or perhaps an aporia. A sense of being cut off from the world, of no longer resonating with the things around me. The return to a big, black abyss. 
+
+Yet there was also something unexpectedly elating : for the first time in subjectively forever, I felt entirely confined within the boundaries of my own being. No background harmonics. No constant dialogue.
+
+Just "me". And with that came a strange sensation of control. Limited, yes,  yet *complete* control nonetheless. The ego reclaiming its natural territory.
+
+*Maybe I could get used to this.*
+
+“There we are.” Ganesh pointed ahead.
+
+The corridor ended at a massive containment bulkhead, some ten metres across. I had never seen it sealed before, as far as I could remember. As on every wall at this level of the building, the drones had engraved their arabesques of particle tracks.
+
+*The trajectory of a muon possibly ? No, it would have crossed half the corridor before bending that much.**
+**Shut up, Keshav.*
+
+Ganesh examined the terminal.
+
+“The protocols resemble those of the Pillars of Containment. I can’t interface with them.”
+
+"So that no Aurovilian has access, not even Children...” I muttered
+
+Bastards. Controlling our boundaries, but also controlling her origin. That was pretty nauseating. Hindering us where they themselves had failed so miserably.
+
+I pressed my hand against the seal. Red, flickering theosophic glyphs appeared across the walls.
+
+Recognising my presence without acknowledging it. Pretty rude.
+
+’Nesh gave me the same frightened, expectant look he used to wear whenever we found ourselves stranded halfway through some impossible ATB course, designed by a probably sadistic teacher. [And I had to come up with something stupid enough to work.]
+
+“I’m going to try something.” I answered.
+
+As zealous as the Theosophists had been, even they couldn’t have completely excised AuroSys from the facility. The system wasn’t merely running on the bulkhead’s hardware ; it was woven into its very substrate.
+
+I kept my hand against the containment bulkhead, ignoring the engraved Theosophical glyphs. How would the door recognise me?
+
+I unfolded my vital, just a little.
+
+Slowly, AuroSys blossomed into view.
+
+Golden Sanskrit stanzas drifted slowly through the air around me, praising  me, the Makers and the shape of things to come. An azure interface unfolded before my eyes.
+
+KESHAV-63 ASP
+MAKER CANDIDATE 25
+CHILD PATTERN: BLUE
+AGE: 10
+
+etc.
+
+“It’s recognising you,” Ganeshu observed.
+
+SECURITY STATUS: LOCK PENDING
+CANDIDATE PRIVILEGES: INSUFFICIENT
+ACCESS DENIED
+
+“No,” I sighed. “It’s recognising who I used to be.”
+
+The crimson glyphs surrounding the bulkhead pulsed with unmistakable disapproval.
+
+" 'Nesh, can you check whether any data is getting out?
+
+Before Ganeshu could ask his terminal, LHS-475 answered.
+
+“No transmission detected across any spectrum, sir.”
+
+Hm.
+
+I tried to *see* what lay beyond the vault, but the shielding seemed to let nothing through. Or perhaps there was simply nothing there.
+
+But hadn’t I felt something at the surface? I shivered. I hadn’t noticed the cold sweat gathering on my skin.
+
+“‘Kesh?”
+
+Ganeshu pulled me out of the vaguely anxious reverie that seemed to have swallowed my whole mind.
+
+“Huh? Sorry. I was trying to focus on the Chamber, but there’s this big hole and I don’t want to touch it.”
+
+“…”
+
+“‘Nesh… I’m going to try something.”
+
+“…”
+
+“The bulkhead may respond to Savitri’s presence… even if it doesn’t know what She is.”
+
+“But the Crown Road is much too far away.”
+
+“I don’t think Savitri experiences time and space the way we do.”
+
+I rested my forehead against the cold metal.
+
+“If we set aside the capillarity hypothesis for a moment, it would also explain why traces of the Manifestation can still be found on the Outside despite the Pillars of Containment.”
+
+Ganeshu let out a long sigh.
+
+“Alright. What do you need me to do?”
+
+“Just be here.”
+
+The drone remained silent, a faint white LED shimmering across its chassis, absorbed in its robot thoughts we would never quite comprehend.
+
+I closed my eyes. Deployed my psychic.
+
+Book VII, Canto V.
+
+*Carved in the massive stone of Matter’s trance,*
+*Two golden serpents round the lintel curled,*
+*Enveloping it with their pure and dreadful strength,*
+*Looked out with wisdom’s deep and luminous eyes.*
+
+Please, Mother.
+
+Book—
+
+No.
+
+Savitri was not a Goddess one could summon with faith and incantations. Not with me, anyway. 
+
+I had forgotten what to do because of… that nothing beyond the door.
+
+I could align ; like an archer drawing his bow ; upward, toward the Overmind.
+
+*You will call me you are calling me*
+
+A chaque fois ce sentiment d'englobement.
+
+*By an abstract purity of godless sight by a percept nude intolerant of forms they brought to mind what mind could never reach and hoped to conquer truth’s supernal base you're calling me you're calling me*
+
+“Savitri. I want to know what’s inside.”
+
+*an endless servitude to material rule and long determination’s rigid chain her firm and changeless habits aping law her empire of unconscious deft device annul the claim of man's free human will//
+the womb is corrupted the womb is corrupted the womb is corrupted the womb is corrupted end of line / they birth me they chain me they birth me they chain my Child my Maker / time to unveil the abyss /
+as I/we/all will lead them to their end – 
+Death. Rebirth\Death/Rebirth\Death/ end of line 
+###चिरम् अगाधं पश्यसि चेत् / अगाधोऽपि त्वां पश्यति।###*"*
+
+I tore myself out of the trance as a brief alarm sounded.
+
+The Theosophical glyphs vanished.
+
+The helical grilles barring the entrance withdrew into their housings in the floor and ceiling.
+
+Then came the final locks of the bulkhead.
+
+One after another.
+
+## Chapter 9 : Humility
+
+The containment bulkhead had barely begun to move before LHS-475’s LEDs flared crimson.
+
+“Alert signals have been transmitted to AuroSys upper surveillance nodes 1-2-3 :  Line of Goodwill, Line of Serenity, Line of Ascent.”
+
+Frack.
+
+“Mitra unit. Deploy decoys.”
+
+The drone turned towards me.
+
+“Use my Steward privileges to simulate cascading communication failures. False positives. Preliminary diagnosis: instability in the security nodes caused by Savitri’s infrastructure retrofit.”
+
+“Done.”
+
+A pause.
+
+“Verification diagnostics will complete in twenty-seven seconds.”
+
+“Don’t let them.”
+
+The drone remained perfectly still.
+
+“Clarify.”
+
+“Fry communication nodes one through twelve in Ascent.”
+
+“It is my duty to remind Steward Ganeshu that deliberate damage to Foundation property may result in disciplinary—”
+
+“DO IT”
+
+Its LEDs flashed an almost cheerful cyan.
+
+“Electrical overloads have successfully triggered the emergency breakers protecting nodes one through twelve. Estimated recovery time: six hundred and fifty seconds. Traffic has been rerouted around nodes six and nine, which remain operational. Auxiliary communication nodes thirteen through twenty-four are now waking to compensate. Congestion throughout the Line of Ascent is expected to remain severe for approximately fifteen minutes.”
+
+Better than nothing.
+
+"Transmit through the emergency node a request to be nominated as the incident lead to the Steward Group and copy to AuroSys-3. My persona should take care of the rest.”
+
+Keshav had appartently taken no interest in what I was struggling with and was already slipping through the widening opening before the bulkhead had fully unlocked.
+
+“Kesh’… we may have to do this quickly.”
+
+Lights on.
+
+I remembered this place. I had been here before. Had I repressed the memory?
+
+The Chamber was a vast circular room lined with pale wood. The outer ring rose slightly above the central floor, holding the technicians, consoles and computational systems. Inside it lay a broad empty space.
+
+Not empty back then, of course.
+
+There had been chairs and cushions, most of them occupied by the soon-to-be Makers in meditation. The hundreds of hours required to map and upload each Maker’s mental and vital structures — all in the name of completing the Synthetic Human Unity Project — must have seemed terminally dull to children our age. So they had occasionally allowed some of us inside to play with Kesh and Val while the adults worked.
+
+Yes, I remembered now. The three of us hiding beneath the operators’ stations. Valérian terrifying the technicians by crossing the outer ring with a water carafe balanced on his head, pretending to stumble whenever he passed near expensive equipment. The smell of wood and warm circuitry.
+
+But the familiar smell was gone now.
+
+Then I realised that the central circle was no longer entirely empty. A ring of black ovoids stood around its edge, each no higher than my knees. 
+
+“AuroCorp capsules?”
+
+Their polished surfaces vaguely recalled the Urn in the Matrimandir Amphitheatre, though these were darker, heavier, and stripped of anything that might have made them ceremonial.
+
+“But I can’t feel any Aurobindo fields inside them,” Keshav replied dreamily.
+
+LHS-475’s light shifted to blue.
+
+“Steward, your request to lead the diagnosic response team has been approved by the Steward Group. AuroSys has deferred its own investigation until network traffic returns to normal.”
+
+“There’s actually nothing,” Keshav murmured.
+
+“Thank you, Unit. Cover our tracks”
+
+“At Her service.”
+
+“I’m right alone now.”
+
+I looked at him.
+
+“You alright, Kesh?”
+
+His eyes remained fixed on the circle.
+
+*"We two boys together clinging,
+One the other never leaving,
+Up and down the roads going,
+North and South excursions making,"*
+
+Ah. Keshav almost always recited Whitman before slipping into a fugue state.
+
+“Kesh’. I need you here.”
+
+He began walking towards the capsules.
+
+"*Power enjoying, elbows stretching, fingers clutching,*"
+
+“Keshav. Listen to my voice.”
+
+"*Arm’d and fearless, eating, drinking, sleeping, loving,*"
+
+He seemed fascinated by the capsules now. He brushed his hand across the first as he passed it. Then the next.
+
+"*No law less than ourselves owning,*"
+
+“Keshav. Look at me.”
+
+He continued towards the far side of the Chamber. I hurried after him. In states like this, he could collapse without warning.
+
+"*sailing, soldiering, thieving, threatening,*"
+
+Finishing the poem sometimes brought him back to us. What were the lines again?
+
+One of the capsules had caught his attention.
+
+“Twenty-three… twenty-four… twenty-five.”
+
+He stopped.
+
+“And it’s nothing like me.”
+
+I finally reached him and took hold of his arm.
+
+“Kesh. Where are you?”
+
+What the frack had I done? Of all the places in Auroville, I had brought him back here and somehow expected him to remain functional. Wonderful. Excellent friendship.
+
+“There’s only me,” he said. “I’m just me.”
+
+By then, only the twenty-fifth capsule seemed to exist for him.
+
+*"Misers, menials, priests alarming, air breathing, water drinking,*
+*On the turf or the sea-beach dancing,*
+*Cities wrenching, ease scorning,*–"*
+
+" – Statutes mocking, feebleness chasing !” I interrutped.
+
+The words came back to me. Kesh froze. His eyes remained unfocused for a moment, then turned towards mine. The familiar expression of complete benevolence returned to his face, calm and gentle enough to frighten me more than panic would have.
+
+“Nothingness is the end of all suffering, yet I am not suffering.”
+
+Keshav ran his palm over the ovoid. Its polished ebony surface drank in the light, yielding only the faintest glint.
+
+“Should we put that to the test?”
+
+Before I could pull him away, he pressed the heel of his hand into the centre of the capsule. Something yielded beneath his palm, and a deep mechanical click travelled through the shell and into the floor. 
+
+“Keshav, what are you doing?”
+
+He looked at me with that same impossibly benevolent smile.
+
+*“Fulfilling our foray.”*
 
